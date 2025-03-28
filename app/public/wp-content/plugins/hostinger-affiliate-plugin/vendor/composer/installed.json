@@ -1,0 +1,317 @@
+{
+    "packages": [
+        {
+            "name": "automattic/jetpack-autoloader",
+            "version": "v3.1.3",
+            "version_normalized": "3.1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Automattic/jetpack-autoloader.git",
+                "reference": "e7e49a4e2f16cb2dfd3e58c478499a60d7d51839"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/e7e49a4e2f16cb2dfd3e58c478499a60d7d51839",
+                "reference": "e7e49a4e2f16cb2dfd3e58c478499a60d7d51839",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.1 || ^2.0",
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "automattic/jetpack-changelogger": "^4.2.8",
+                "composer/composer": "^1.1 || ^2.0",
+                "yoast/phpunit-polyfills": "^1.1.1"
+            },
+            "time": "2024-11-04T09:23:56+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin",
+                "autotagger": true,
+                "mirror-repo": "Automattic/jetpack-autoloader",
+                "branch-alias": {
+                    "dev-trunk": "3.1.x-dev"
+                },
+                "changelogger": {
+                    "link-template": "https://github.com/Automattic/jetpack-autoloader/compare/v${old}...v${new}"
+                },
+                "version-constants": {
+                    "::VERSION": "src/AutoloadGenerator.php"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Automattic\\Jetpack\\Autoloader\\": "src"
+                },
+                "classmap": [
+                    "src/AutoloadGenerator.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Creates a custom autoloader for a plugin or theme.",
+            "keywords": [
+                "autoload",
+                "autoloader",
+                "composer",
+                "jetpack",
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/Automattic/jetpack-autoloader/tree/v3.1.3"
+            },
+            "install-path": "../automattic/jetpack-autoloader"
+        },
+        {
+            "name": "hostinger/hostinger-wp-amplitude",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-amplitude.git",
+                "reference": "0b8847304abd6100438fb318269ced0d617e00cd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-amplitude/zipball/0b8847304abd6100438fb318269ced0d617e00cd",
+                "reference": "0b8847304abd6100438fb318269ced0d617e00cd",
+                "shasum": ""
+            },
+            "require": {
+                "hostinger/hostinger-wp-helper": "dev-main",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "time": "2025-03-21T13:35:51+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\Amplitude\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Hostinger\\Amplitude\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "A PHP package with amplitude events for WordPress plugins",
+            "support": {
+                "source": "https://github.com/hostinger/hostinger-wp-amplitude/tree/main",
+                "issues": "https://github.com/hostinger/hostinger-wp-amplitude/issues"
+            },
+            "install-path": "../hostinger/hostinger-wp-amplitude"
+        },
+        {
+            "name": "hostinger/hostinger-wp-helper",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-helper.git",
+                "reference": "cc2cc0fb4e27299459fe6a4402d618fcd7ef026e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-helper/zipball/cc2cc0fb4e27299459fe6a4402d618fcd7ef026e",
+                "reference": "cc2cc0fb4e27299459fe6a4402d618fcd7ef026e",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2024-12-02T07:25:44+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\WpHelper\\": "src/",
+                    "Hostinger\\Tests\\": "tests/phpunit"
+                }
+            },
+            "description": "A PHP package with core functions for Hostinger WordPress plugins.",
+            "support": {
+                "source": "https://github.com/hostinger/hostinger-wp-helper/tree/main",
+                "issues": "https://github.com/hostinger/hostinger-wp-helper/issues"
+            },
+            "install-path": "../hostinger/hostinger-wp-helper"
+        },
+        {
+            "name": "hostinger/hostinger-wp-menu-manager",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-menu-manager.git",
+                "reference": "55c51da53ddb575a37bc4e22bbbd099fe9bac5ac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-menu-manager/zipball/55c51da53ddb575a37bc4e22bbbd099fe9bac5ac",
+                "reference": "55c51da53ddb575a37bc4e22bbbd099fe9bac5ac",
+                "shasum": ""
+            },
+            "require": {
+                "hostinger/hostinger-wp-helper": "*"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6",
+                "squizlabs/php_codesniffer": "^3.0",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2025-02-26T10:16:00+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\WpMenuManager\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Hostinger\\WpMenuManager\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "Package for managing Hostinger WordPress menus and pages.",
+            "support": {
+                "source": "https://github.com/hostinger/hostinger-wp-menu-manager/tree/main",
+                "issues": "https://github.com/hostinger/hostinger-wp-menu-manager/issues"
+            },
+            "install-path": "../hostinger/hostinger-wp-menu-manager"
+        },
+        {
+            "name": "psr/container",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/container.git",
+                "reference": "707984727bd5b2b670e59559d3ed2500240cf875"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/707984727bd5b2b670e59559d3ed2500240cf875",
+                "reference": "707984727bd5b2b670e59559d3ed2500240cf875",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.0"
+            },
+            "time": "2023-09-22T11:11:30+00:00",
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Container\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "homepage": "https://github.com/php-fig/container",
+            "keywords": [
+                "PSR-11",
+                "container",
+                "container-interface",
+                "container-interop",
+                "psr"
+            ],
+            "support": {
+                "issues": "https://github.com/php-fig/container/issues",
+                "source": "https://github.com/php-fig/container"
+            },
+            "install-path": "../psr/container"
+        },
+        {
+            "name": "yahnis-elsts/plugin-update-checker",
+            "version": "v5.5",
+            "version_normalized": "5.5.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/YahnisElsts/plugin-update-checker.git",
+                "reference": "845d65da93bcff31649ede00d9d73b1beadbb7f0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/YahnisElsts/plugin-update-checker/zipball/845d65da93bcff31649ede00d9d73b1beadbb7f0",
+                "reference": "845d65da93bcff31649ede00d9d73b1beadbb7f0",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.6.20"
+            },
+            "time": "2024-10-16T14:25:00+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "load-v5p5.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Yahnis Elsts",
+                    "email": "whiteshadow@w-shadow.com",
+                    "homepage": "https://w-shadow.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A custom update checker for WordPress plugins and themes. Useful if you can't host your plugin in the official WP repository but still want it to support automatic updates.",
+            "homepage": "https://github.com/YahnisElsts/plugin-update-checker/",
+            "keywords": [
+                "automatic updates",
+                "plugin updates",
+                "theme updates",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/YahnisElsts/plugin-update-checker/issues",
+                "source": "https://github.com/YahnisElsts/plugin-update-checker/tree/v5.5"
+            },
+            "install-path": "../yahnis-elsts/plugin-update-checker"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

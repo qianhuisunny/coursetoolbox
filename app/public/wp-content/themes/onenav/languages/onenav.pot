@@ -1,0 +1,3322 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: One Nav\n"
+"POT-Creation-Date: 2023-05-09 11:35+0800\n"
+"PO-Revision-Date: 2020-02-25 06:10+0800\n"
+"Last-Translator: \n"
+"Language-Team: iowen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/theme-settings.php\n"
+"X-Poedit-SearchPathExcluded-2: inc/meta-boxs.php\n"
+"X-Poedit-SearchPathExcluded-3: inc/meta-taxonomy.php\n"
+"X-Poedit-SearchPathExcluded-4: inc/classes\n"
+"X-Poedit-SearchPathExcluded-5: inc/meta-menu.php\n"
+"X-Poedit-SearchPathExcluded-6: inc/search-settings.php\n"
+"X-Poedit-SearchPathExcluded-7: inc/admin\n"
+"X-Poedit-SearchPathExcluded-8: inc/hot-search-option.php\n"
+"X-Poedit-SearchPathExcluded-9: inc/post-type.php\n"
+
+#: 404.php:20
+msgid "抱歉，没有你要找的内容..."
+msgstr ""
+
+#: 404.php:22
+msgid "返回首页"
+msgstr ""
+
+#: author.php:44
+msgid "基本信息"
+msgstr ""
+
+#: comments.php:28
+msgid "暂无评论"
+msgstr ""
+
+#: comments.php:28
+msgid "1 条评论"
+msgstr ""
+
+#: comments.php:28
+msgid "% 条评论"
+msgstr ""
+
+#: comments.php:38
+msgid "您必须登录才能参与评论！"
+msgstr ""
+
+#: comments.php:39
+msgid "立即登录"
+msgstr ""
+
+#: comments.php:47
+msgid "退出"
+msgstr ""
+
+#: comments.php:56
+msgid "输入评论内容..."
+msgstr ""
+
+#: comments.php:60 templates/contribute/post.php:101
+#: templates/contribute/sites.php:151 templates/user/user.uc.settings.php:38
+msgid "昵称"
+msgstr ""
+
+#: comments.php:61 inc/functions/functions.php:199
+#: inc/functions/functions.php:286 inc/functions/io-login.php:139
+#: inc/functions/io-user.php:478
+msgid "邮箱"
+msgstr ""
+
+#: comments.php:67
+msgid "再想想"
+msgstr ""
+
+#: comments.php:69
+msgid "发表评论"
+msgstr ""
+
+#: comments.php:79
+msgid "评论已关闭..."
+msgstr ""
+
+#: comments.php:92
+msgid "暂无评论..."
+msgstr ""
+
+#: footer.php:175 templates/bookmark/bm.footer.php:26
+#: templates/user/user.uc.sites.php:37 templates/widget/header-user.php:33
+msgid "我的书签"
+msgstr ""
+
+#: footer.php:180
+msgid "mini 书签"
+msgstr ""
+
+#: footer.php:185 inc/theme-start.php:508
+msgid "夜间模式"
+msgstr ""
+
+#: footer.php:209
+msgid "热门推荐："
+msgstr ""
+
+#: go.php:33
+msgid "加载中"
+msgstr ""
+
+#: go.php:40
+msgid "参数缺失，正在返回首页..."
+msgstr ""
+
+#: go.php:46
+msgid "危险..."
+msgstr ""
+
+#: go.php:61
+msgid "安全中心"
+msgstr ""
+
+#: go.php:85
+msgid "请注意您的账号和财产安全"
+msgstr ""
+
+#: go.php:86
+#, php-format
+msgid "您即将离开%s，去往：%s"
+msgstr ""
+
+#: go.php:88
+msgid "目标网址未通过安全检查"
+msgstr ""
+
+#: go.php:89
+msgid "已中止跳转，即将返回首页！"
+msgstr ""
+
+#: go.php:108
+#, php-format
+msgid "%s秒后自动跳转"
+msgstr ""
+
+#: go.php:125
+msgid "继续"
+msgstr ""
+
+#: inc/action/ajax-app.php:16 inc/action/ajax-post.php:15
+#: inc/action/ajax-sites.php:15
+msgid "投稿功能已关闭"
+msgstr ""
+
+#: inc/action/ajax-app.php:19 inc/action/ajax-post.php:18
+#: inc/action/ajax-post.php:147 inc/action/ajax-sites.php:18
+#: inc/action/ajax-user.php:176 inc/action/ajax-user.php:226
+#: inc/action/ajax-user.php:522 inc/action/ajax.php:85 inc/action/ajax.php:779
+#: inc/action/ajax.php:949
+msgid "对不起!您没有通过安全检查"
+msgstr ""
+
+#: inc/action/ajax-app.php:23 inc/action/ajax-post.php:22
+#: inc/action/ajax-sites.php:22
+#, php-format
+msgid "您投稿也太勤快了吧，“%s”秒后再试！"
+msgstr ""
+
+#: inc/action/ajax-app.php:46 inc/action/ajax-sites.php:38
+#: inc/functions/io-search.php:14
+msgid "网站"
+msgstr ""
+
+#: inc/action/ajax-app.php:48 inc/functions/io-single-app.php:396
+#: inc/functions/io-single-app.php:399 inc/inc.php:220
+#: iopay/functions/iopay-post.php:81 iopay/functions/iopay-post.php:168
+#: iopay/functions/iopay-post.php:240
+msgid "资源"
+msgstr ""
+
+#: inc/action/ajax-app.php:50 inc/action/ajax-sites.php:39
+#: inc/functions/io-single-site.php:362 inc/inc.php:217
+#: templates/contribute/sites.php:28
+msgid "公众号"
+msgstr ""
+
+#: inc/action/ajax-app.php:67
+msgid "名称必须填写，且长度不得超过30字。"
+msgstr ""
+
+#: inc/action/ajax-app.php:72 inc/action/ajax-sites.php:63
+msgid "存在相同的名称，请不要重复提交哦！"
+msgstr ""
+
+#: inc/action/ajax-app.php:76
+msgid "链接必须填写，且必须符合URL格式。"
+msgstr ""
+
+#: inc/action/ajax-app.php:80 inc/action/ajax-sites.php:74
+#: inc/action/ajax.php:202
+msgid "存在相同的链接地址，请不要重复提交哦！"
+msgstr ""
+
+#: inc/action/ajax-app.php:84
+msgid "描述必须填写，且长度不得超过50字。"
+msgstr ""
+
+#: inc/action/ajax-app.php:87 inc/action/ajax-sites.php:85
+msgid "请选择分类。"
+msgstr ""
+
+#: inc/action/ajax-app.php:90 inc/action/ajax-sites.php:89
+msgid "不能选用父级分类目录。"
+msgstr ""
+
+#: inc/action/ajax-app.php:94 inc/action/ajax-post.php:63
+#: inc/action/ajax-sites.php:94
+#, php-format
+msgid "标签不能超过%s个！"
+msgstr ""
+
+#: inc/action/ajax-app.php:102
+msgid "“官网地址”和“网盘地址”怎么地也待填一个把。"
+msgstr ""
+
+#: inc/action/ajax-app.php:125 inc/action/ajax-post.php:161
+#: inc/action/ajax-sites.php:123 inc/theme-start.php:596
+#: template-contribute.php:92 template-contribute.php:93
+#, php-format
+msgid "图片大小不能超过 %s kb"
+msgstr ""
+
+#: inc/action/ajax-app.php:137 inc/action/ajax-sites.php:99
+msgid "必须添加微信号。"
+msgstr ""
+
+#: inc/action/ajax-app.php:188 inc/action/ajax-post.php:125
+#: inc/action/ajax-sites.php:179
+msgid "投稿成功！"
+msgstr ""
+
+#: inc/action/ajax-app.php:190 inc/action/ajax-post.php:119
+#: inc/action/ajax-sites.php:181
+msgid "投稿失败！"
+msgstr ""
+
+#: inc/action/ajax-app.php:205 inc/functions/functions.php:1039
+msgid "描述"
+msgstr ""
+
+#: inc/action/ajax-app.php:206 inc/functions/functions.php:1040
+msgid "提取码"
+msgstr ""
+
+#: inc/action/ajax-app.php:207 inc/functions/functions.php:1041
+#: inc/functions/io-single-app.php:97 inc/functions/io-single-app.php:288
+#: inc/functions/io-single-site.php:575 inc/functions/io-single-site.php:584
+#: inc/functions/io-single-site.php:591
+msgid "下载"
+msgstr ""
+
+#: inc/action/ajax-app.php:220 inc/action/ajax-app.php:221
+#: inc/functions/functions.php:1051 inc/functions/functions.php:1052
+#: iopay/functions/iopay-post.php:251
+msgid "无"
+msgstr ""
+
+#: inc/action/ajax-app.php:228 inc/fav-content.php:306
+#: inc/functions/functions.php:1062 taxonomy-apps.php:24 taxonomy-apptag.php:24
+#: taxonomy-books.php:29 taxonomy-booktag.php:25 taxonomy-favorites.php:29
+#: taxonomy-series.php:25 taxonomy-sitetag.php:24 templates/search-app.php:14
+#: templates/search-book.php:14 templates/search-sites.php:17
+msgid "没有内容"
+msgstr ""
+
+#: inc/action/ajax-app.php:234 inc/functions/functions.php:1069
+msgid "声明："
+msgstr ""
+
+#: inc/action/ajax-post.php:34
+msgid "请填写文章标题"
+msgstr ""
+
+#: inc/action/ajax-post.php:37
+msgid "还未填写任何内容"
+msgstr ""
+
+#: inc/action/ajax-post.php:50
+#, php-format
+msgid "标题太长了，不能超过%s个字"
+msgstr ""
+
+#: inc/action/ajax-post.php:53
+msgid "标题太短！"
+msgstr ""
+
+#: inc/action/ajax-post.php:56
+msgid "文章内容过少"
+msgstr ""
+
+#: inc/action/ajax-post.php:59
+msgid "请选择文章分类"
+msgstr ""
+
+#: inc/action/ajax-post.php:77 inc/action/ajax-sites.php:105
+msgid "请输入昵称！"
+msgstr ""
+
+#: inc/action/ajax-post.php:80 inc/action/ajax-sites.php:108
+msgid "请输入联系方式！"
+msgstr ""
+
+#: inc/action/ajax-post.php:143
+msgid "上传信息错误，请重新选择文件"
+msgstr ""
+
+#: inc/action/ajax-post.php:152 inc/action/ajax-sites.php:120
+msgid "图片上传功能已关闭。"
+msgstr ""
+
+#: inc/action/ajax-post.php:156
+msgid "文件不属于图片格式"
+msgstr ""
+
+#: inc/action/ajax-post.php:166
+msgid "上传成功！"
+msgstr ""
+
+#: inc/action/ajax-post.php:169
+msgid "上传失败！"
+msgstr ""
+
+#: inc/action/ajax-sites.php:56
+msgid "名称必须填写！"
+msgstr ""
+
+#: inc/action/ajax-sites.php:59
+msgid "名称长度不得超过30字。"
+msgstr ""
+
+#: inc/action/ajax-sites.php:67
+msgid "链接必须填写！"
+msgstr ""
+
+#: inc/action/ajax-sites.php:70
+msgid "链接必须符合URL格式。"
+msgstr ""
+
+#: inc/action/ajax-sites.php:78
+msgid "简介必须填写！"
+msgstr ""
+
+#: inc/action/ajax-sites.php:81
+msgid "简介长度不得超过80字。"
+msgstr ""
+
+#: inc/action/ajax-user.php:23 inc/action/ajax-user.php:262
+msgid "请认真填写表单！"
+msgstr ""
+
+#: inc/action/ajax-user.php:36
+msgid "未找到此手机号注册账户!"
+msgstr ""
+
+#: inc/action/ajax-user.php:51
+msgid "用户名或密码错误，请重试!"
+msgstr ""
+
+#: inc/action/ajax-user.php:66
+msgid "登录成功，跳转中！"
+msgstr ""
+
+#: inc/action/ajax-user.php:83
+msgid "请输入用户名！"
+msgstr ""
+
+#: inc/action/ajax-user.php:85
+msgid "用户名长度至少5位!"
+msgstr ""
+
+#: inc/action/ajax-user.php:87
+msgid "此用户名包含无效字符，只能使用字母数字下划线！"
+msgstr ""
+
+#: inc/action/ajax-user.php:89
+msgid "该用户名已被注册，请再选择一个！"
+msgstr ""
+
+#: inc/action/ajax-user.php:102 inc/action/ajax-user.php:360
+msgid "该电子邮件地址已经被注册，请换一个！"
+msgstr ""
+
+#: inc/action/ajax-user.php:105 inc/action/ajax-user.php:363
+#: inc/action/ajax-user.php:660 inc/action/ajax-user.php:707
+msgid "该手机号已有绑定帐号！"
+msgstr ""
+
+#: inc/action/ajax-user.php:110 inc/action/ajax-user.php:267
+#: inc/action/ajax.php:880 inc/action/ajax.php:902 inc/action/ajax.php:924
+#: inc/action/ajax.php:929 inc/action/ajax.php:961 inc/action/ajax.php:1013
+#: inc/action/ajax.php:1038 inc/action/ajax.php:1058 inc/action/ajax.php:1086
+#: inc/action/ajax.php:1094 inc/action/ajax.php:1110 inc/action/ajax.php:1115
+#: inc/action/ajax.php:1134 inc/action/ajax.php:1139 inc/action/ajax.php:1172
+#: inc/action/ajax.php:1182 inc/functions/functions.php:100
+msgid "数据错误！"
+msgstr ""
+
+#: inc/action/ajax-user.php:113
+msgid "邮箱怎么变了！"
+msgstr ""
+
+#: inc/action/ajax-user.php:116
+msgid "请输入验证码！"
+msgstr ""
+
+#: inc/action/ajax-user.php:118 inc/action/ajax-user.php:269
+msgid "验证码不正确！"
+msgstr ""
+
+#: inc/action/ajax-user.php:124 inc/action/ajax-user.php:401
+#: inc/action/ajax-user.php:472
+msgid "密码长度至少6位!"
+msgstr ""
+
+#: inc/action/ajax-user.php:126 inc/action/ajax-user.php:404
+#: inc/action/ajax-user.php:475
+msgid "密码不一致!"
+msgstr ""
+
+#: inc/action/ajax-user.php:165
+msgid "注册成功，跳转中！"
+msgstr ""
+
+#: inc/action/ajax-user.php:173
+msgid "请先登录才能收藏哦!"
+msgstr ""
+
+#: inc/action/ajax-user.php:182
+msgid "文章 id 错误"
+msgstr ""
+
+#: inc/action/ajax-user.php:195
+msgid "取消收藏成功"
+msgstr ""
+
+#: inc/action/ajax-user.php:197
+msgid "取消收藏失败！！！"
+msgstr ""
+
+#: inc/action/ajax-user.php:200 inc/action/ajax-user.php:213
+msgid "收藏成功"
+msgstr ""
+
+#: inc/action/ajax-user.php:203
+msgid "操作异常！！！"
+msgstr ""
+
+#: inc/action/ajax-user.php:215
+msgid "收藏失败！！！"
+msgstr ""
+
+#: inc/action/ajax-user.php:230 inc/action/ajax-user.php:324
+msgid "非法请求!"
+msgstr ""
+
+#: inc/action/ajax-user.php:248
+msgid "资料修改成功！"
+msgstr ""
+
+#: inc/action/ajax-user.php:319 inc/action/ajax-user.php:342
+msgid "绑定成功！"
+msgstr ""
+
+#: inc/action/ajax-user.php:380
+msgid "该电子邮件尚未注册！"
+msgstr ""
+
+#: inc/action/ajax-user.php:383
+msgid "该手机号尚未注册！"
+msgstr ""
+
+#: inc/action/ajax-user.php:398 inc/action/ajax-user.php:469
+msgid "密码不能为空"
+msgstr ""
+
+#: inc/action/ajax-user.php:432
+msgid "未查询到您的帐号信息"
+msgstr ""
+
+#: inc/action/ajax-user.php:455
+msgid "密码修改成功！"
+msgstr ""
+
+#: inc/action/ajax-user.php:466 inc/action/ajax-user.php:554
+#: inc/action/ajax-user.php:567 inc/action/ajax-user.php:597
+#: inc/action/ajax-user.php:633 inc/action/ajax-user.php:675
+#: inc/action/ajax.php:356 iopay/functions/iopay-ajax.php:156
+msgid "请先登录!"
+msgstr ""
+
+#: inc/action/ajax-user.php:486
+msgid "请输入原密码!"
+msgstr ""
+
+#: inc/action/ajax-user.php:490
+msgid "新密码和原密码不能相同!"
+msgstr ""
+
+#: inc/action/ajax-user.php:494
+msgid "原密码错误!"
+msgstr ""
+
+#: inc/action/ajax-user.php:527
+msgid "无权修改！"
+msgstr ""
+
+#: inc/action/ajax-user.php:547
+msgid "保存成功！"
+msgstr ""
+
+#: inc/action/ajax-user.php:570 inc/action/ajax-user.php:601
+#: inc/action/ajax-user.php:636
+msgid "参数错误！"
+msgstr ""
+
+#: inc/action/ajax-user.php:577 inc/action/ajax-user.php:608
+msgid "用户邮箱错误，请联系管理员。"
+msgstr ""
+
+#: inc/action/ajax-user.php:582 inc/action/ajax-user.php:613
+msgid "未找到绑定的手机号。"
+msgstr ""
+
+#: inc/action/ajax-user.php:649 inc/action/ajax-user.php:693
+msgid "不能与现在的邮箱相同！"
+msgstr ""
+
+#: inc/action/ajax-user.php:652 inc/action/ajax-user.php:697
+msgid "该邮箱已有绑定帐号！"
+msgstr ""
+
+#: inc/action/ajax-user.php:657 inc/action/ajax-user.php:703
+msgid "不能与现在的手机号相同！"
+msgstr ""
+
+#: inc/action/ajax.php:113 inc/inc.php:1990
+msgid "您的评论需要审核后才能显示！"
+msgstr ""
+
+#: inc/action/ajax.php:205
+msgid "没有重复地址，可以提交！"
+msgstr ""
+
+#: inc/action/ajax.php:208
+msgid "请填写地址！"
+msgstr ""
+
+#: inc/action/ajax.php:259 inc/action/ajax.php:479
+msgid "反馈成功"
+msgstr ""
+
+#: inc/action/ajax.php:294
+msgid "错误！"
+msgstr ""
+
+#: inc/action/ajax.php:311 inc/action/ajax.php:313
+msgid "移动端"
+msgstr ""
+
+#: inc/action/ajax.php:311 inc/action/ajax.php:313
+msgid "合计"
+msgstr ""
+
+#: inc/action/ajax.php:311
+msgid "下载量"
+msgstr ""
+
+#: inc/action/ajax.php:359 inc/functions/functions.php:196
+msgid "参数错误!"
+msgstr ""
+
+#: inc/action/ajax.php:362
+msgid "权限不足!"
+msgstr ""
+
+#: inc/action/ajax.php:365
+msgid "请先绑定邮箱！"
+msgstr ""
+
+#: inc/action/ajax.php:381
+msgid "已解除绑定"
+msgstr ""
+
+#: inc/action/ajax.php:545 templates/user/user.uc.sites.php:258
+msgid "已添加"
+msgstr ""
+
+#: inc/action/ajax.php:545 templates/tools-customize.php:89
+#: templates/tools-customizeforuser.php:274
+#: templates/user/user.uc.sites.php:258
+msgid "添加"
+msgstr ""
+
+#: inc/action/ajax.php:717 inc/action/ajax.php:782 inc/action/ajax.php:832
+#: inc/action/ajax.php:875 inc/action/ajax.php:898 inc/action/ajax.php:916
+#: inc/action/ajax.php:952 inc/action/ajax.php:1009 inc/action/ajax.php:1032
+#: inc/action/ajax.php:1052 inc/action/ajax.php:1081 inc/action/ajax.php:1106
+#: inc/action/ajax.php:1129
+msgid "请登录！"
+msgstr ""
+
+#: inc/action/ajax.php:764 templates/tools-customize.php:44
+#: templates/tools-customizeforuser.php:116
+#: templates/tools-customizeforuser.php:168
+#: templates/tools-customizeforuser.php:191
+msgid "没有数据！点右上角编辑添加网址"
+msgstr ""
+
+#: inc/action/ajax.php:793 inc/action/ajax.php:809 inc/action/ajax.php:839
+#: inc/action/ajax.php:852
+msgid "内容错误！"
+msgstr ""
+
+#: inc/action/ajax.php:795
+msgid "网址内容不能为空！"
+msgstr ""
+
+#: inc/action/ajax.php:800 inc/action/ajax.php:843 inc/action/ajax.php:1017
+msgid "分类名称已经存在，不能再新建！"
+msgstr ""
+
+#: inc/action/ajax.php:812 inc/action/ajax.php:935
+msgid "当前分类下已经存在同样的 URL 地址！"
+msgstr ""
+
+#: inc/action/ajax.php:815 inc/action/ajax.php:938
+msgid "当前分类下已经存在同样名称的网址！"
+msgstr ""
+
+#: inc/action/ajax.php:823 inc/action/ajax.php:1024
+msgid "添加成功！"
+msgstr ""
+
+#: inc/action/ajax.php:826 inc/action/ajax.php:867 inc/action/ajax.php:1003
+msgid "添加失败！"
+msgstr ""
+
+#: inc/action/ajax.php:865
+#, php-format
+msgid "成功添加 %s 个网址。"
+msgstr ""
+
+#: inc/action/ajax.php:888 inc/action/ajax.php:1073
+msgid "删除成功！"
+msgstr ""
+
+#: inc/action/ajax.php:890 inc/action/ajax.php:910 inc/action/ajax.php:943
+#: inc/action/ajax.php:1026 inc/action/ajax.php:1046 inc/action/ajax.php:1075
+#: inc/action/ajax.php:1099
+msgid "操作失败，稍后再试！"
+msgstr ""
+
+#: inc/action/ajax.php:931
+msgid "网址没有变化！"
+msgstr ""
+
+#: inc/action/ajax.php:941 inc/action/ajax.php:1044
+msgid "修改成功！"
+msgstr ""
+
+#: inc/action/ajax.php:1001
+#, php-format
+msgid "成功添加 %s 个分类，%s 个网址。"
+msgstr ""
+
+#: inc/action/ajax.php:1042
+msgid "分类名称已经存在！"
+msgstr ""
+
+#: inc/action/ajax.php:1069
+msgid "此分类内包含网址，无法删除！"
+msgstr ""
+
+#: inc/action/ajax.php:1097
+msgid "移动成功"
+msgstr ""
+
+#: inc/action/ajax.php:1167
+msgid "请先筛选到分类再排序！"
+msgstr ""
+
+#: inc/auth/baidu-callback.php:28 inc/auth/dyh-callback.php:56
+#: inc/auth/gitee-callback.php:28 inc/auth/github-callback.php:28
+#: inc/auth/gzh-callback.php:42 inc/auth/gzh-callback.php:140
+#: inc/auth/qq-callback.php:28 inc/auth/sina-callback.php:28
+#: inc/auth/wechat-callback.php:27
+msgid "绑定失败"
+msgstr ""
+
+#: inc/auth/baidu-callback.php:28 inc/auth/dyh-callback.php:56
+#: inc/auth/gitee-callback.php:28 inc/auth/github-callback.php:28
+#: inc/auth/gzh-callback.php:42 inc/auth/gzh-callback.php:140
+#: inc/auth/qq-callback.php:28 inc/auth/sina-callback.php:28
+#: inc/auth/wechat-callback.php:27
+msgid "登录失败"
+msgstr ""
+
+#: inc/auth/baidu-callback.php:55 inc/auth/gitee-callback.php:55
+#: inc/auth/github-callback.php:51 inc/auth/gzh-callback.php:69
+#: inc/auth/qq-callback.php:53 inc/auth/sina-callback.php:56
+#: inc/auth/wechat-callback.php:55
+msgid "处理错误"
+msgstr ""
+
+#: inc/auth/dyh.php:28 inc/auth/gzh.php:36 inc/open-login.php:75
+#: inc/shortcode.php:222 template-contribute.php:75
+#: templates/bookmark/bm.header.php:59 templates/bookmark/bm.header.php:79
+#: templates/bookmark/bm.quick.php:91 templates/bookmark/bm.search.php:25
+#: templates/login/login.php:24 templates/login/login.php:79
+#: templates/login/lost.php:57 templates/login/reg.php:65
+#: templates/login/reg.php:105
+msgid "登录"
+msgstr ""
+
+#: inc/auth/dyh.php:28 inc/auth/gzh.php:36 templates/login/login.php:83
+#: templates/login/lost.php:57 templates/login/reg.php:26
+#: templates/login/reg.php:71 templates/login/reg.php:101
+msgid "注册"
+msgstr ""
+
+#: inc/auth/gzh-callback.php:134 inc/functions/io-login.php:164
+msgid "参数传入错误"
+msgstr ""
+
+#: inc/email-notify.php:22
+#, php-format
+msgid "您在 [%s] 的评论已通过审核"
+msgstr ""
+
+#: inc/email-notify.php:69
+#, php-format
+msgid "[%s]上有新的待审投稿"
+msgstr ""
+
+#: inc/fav-content.php:223 inc/theme-start.php:543
+#: templates/tools-customizeforuser.php:179 templates/tools-hotcontent.php:40
+msgid "加载中..."
+msgstr ""
+
+#: inc/framework/customize/options-function.php:284
+#: inc/functions/io-single-book.php:174 templates/contribute/post.php:90
+#: templates/contribute/sites.php:140
+msgid "标签"
+msgstr ""
+
+#: inc/framework/customize/options-function.php:285
+msgid "分类目录"
+msgstr ""
+
+#: inc/framework/customize/options-function.php:296
+msgid "发信测试邮件"
+msgstr ""
+
+#: inc/functions/functions.php:128
+msgid "排序成功！"
+msgstr ""
+
+#: inc/functions/functions.php:138
+#, php-format
+msgid "找到 %s 个相关内容"
+msgstr ""
+
+#: inc/functions/functions.php:165
+#, php-format
+msgid "「%s」邮箱验证码"
+msgstr ""
+
+#: inc/functions/functions.php:169
+msgid "发送成功，请前往邮箱查看！"
+msgstr ""
+
+#: inc/functions/functions.php:171
+msgid "发送验证码失败，请稍后再尝试。"
+msgstr ""
+
+#: inc/functions/functions.php:177
+msgid "短信已发送"
+msgstr ""
+
+#: inc/functions/functions.php:200 inc/functions/functions.php:287
+#: inc/functions/io-login.php:142 inc/functions/io-user.php:484
+msgid "手机号"
+msgstr ""
+
+#: inc/functions/functions.php:203
+#, php-format
+msgid "请输入%s验证码"
+msgstr ""
+
+#: inc/functions/functions.php:239
+msgid "图形验证码"
+msgstr ""
+
+#: inc/functions/functions.php:241
+msgid "点击刷新"
+msgstr ""
+
+#: inc/functions/functions.php:292
+#, php-format
+msgid "%s验证码错误！"
+msgstr ""
+
+#: inc/functions/functions.php:297
+#, php-format
+msgid "%s验证码已过期"
+msgstr ""
+
+#: inc/functions/functions.php:300
+#, php-format
+msgid "%s验证码效验成功"
+msgstr ""
+
+#: inc/functions/functions.php:468
+msgid "请求失败,请再试一次！"
+msgstr ""
+
+#: inc/functions/functions.php:723
+msgid "权限不足"
+msgstr ""
+
+#: inc/functions/functions.php:724
+msgid "此内容已隐藏，请登录后查看！"
+msgstr ""
+
+#: inc/functions/functions.php:725
+msgid "登录查看"
+msgstr ""
+
+#: inc/functions/functions.php:734 inc/shortcode.php:224
+#: iopay/functions/functions.php:229
+msgid "付费阅读"
+msgstr ""
+
+#: inc/functions/functions.php:735 iopay/functions/iopay-post.php:296
+msgid "此内容已隐藏，请购买后查看！"
+msgstr ""
+
+#: inc/functions/functions.php:736
+msgid "购买查看"
+msgstr ""
+
+#: inc/functions/functions.php:747 iopay/functions/iopay-post.php:302
+msgid "限时特惠"
+msgstr ""
+
+#: inc/functions/functions.php:923 inc/functions/io-user.php:85
+#: inc/theme-start.php:509 page.php:22 single-bulletin.php:42
+#: template-contribute.php:21 template-links.php:22
+#: templates/tools-customize.php:26 templates/tools-customizeforuser.php:53
+msgid "编辑"
+msgstr ""
+
+#: inc/functions/functions.php:928
+msgid "Edit This"
+msgstr ""
+
+#: inc/functions/functions.php:985
+msgid "查看更多文章"
+msgstr ""
+
+#: inc/functions/functions.php:1007 inc/functions/functions.php:1009
+msgid "发布"
+msgstr ""
+
+#: inc/functions/functions.php:1007
+msgid "更新"
+msgstr ""
+
+#: inc/functions/functions.php:1065
+msgid "解压密码："
+msgstr ""
+
+#: inc/functions/io-check-link.php:594
+msgid "失效链接"
+msgstr ""
+
+#: inc/functions/io-check-link.php:600
+msgid "连接超时"
+msgstr ""
+
+#: inc/functions/io-check-link.php:606 inc/functions/io-single-site.php:694
+msgid "重定向&变更"
+msgstr ""
+
+#: inc/functions/io-login.php:33
+#, php-format
+msgid "已多次登录失败，请%s分钟后重试！"
+msgstr ""
+
+#: inc/functions/io-login.php:147
+msgid "邮箱或手机号"
+msgstr ""
+
+#: inc/functions/io-login.php:188
+msgid "手机号或邮箱格式错误！"
+msgstr ""
+
+#: inc/functions/io-login.php:202
+msgid "邮箱格式错误"
+msgstr ""
+
+#: inc/functions/io-login.php:211
+msgid "手机号格式错误！"
+msgstr ""
+
+#: inc/functions/io-meta.php:26
+msgid "查看权限"
+msgstr ""
+
+#: inc/functions/io-meta.php:57
+msgid "内容查看"
+msgstr ""
+
+#: inc/functions/io-meta.php:58
+msgid "部分内容查看"
+msgstr ""
+
+#: inc/functions/io-meta.php:59
+msgid "附件下载"
+msgstr ""
+
+#: inc/functions/io-meta.php:82
+msgid "货币"
+msgstr ""
+
+#: inc/functions/io-meta.php:93
+msgid "总价"
+msgstr ""
+
+#: inc/functions/io-meta.php:94
+msgid "多价格"
+msgstr ""
+
+#: inc/functions/io-oauth.php:218 inc/functions/io-oauth.php:225
+#: inc/search-list.php:160 inc/search-list.php:161
+#: iopay/functions/functions.php:126
+msgid "微信"
+msgstr ""
+
+#: inc/functions/io-oauth.php:232 inc/search-list.php:166
+#: inc/search-list.php:167
+msgid "微博"
+msgstr ""
+
+#: inc/functions/io-oauth.php:239 inc/search-list.php:25 inc/search-list.php:62
+msgid "百度"
+msgstr ""
+
+#: inc/functions/io-oauth.php:246 inc/theme-start.php:523
+#: iopay/functions/functions.php:130
+msgid "支付宝"
+msgstr ""
+
+#: inc/functions/io-oauth.php:260
+msgid "码云"
+msgstr ""
+
+#: inc/functions/io-oauth.php:267
+msgid "华为"
+msgstr ""
+
+#: inc/functions/io-oauth.php:274
+msgid "谷歌"
+msgstr ""
+
+#: inc/functions/io-oauth.php:281
+msgid "微软"
+msgstr ""
+
+#: inc/functions/io-oauth.php:302
+msgid "钉钉"
+msgstr ""
+
+#: inc/functions/io-search.php:15 inc/widgets.php:651
+#: inc/widgets/w.about.website.php:154
+msgid "文章"
+msgstr ""
+
+#: inc/functions/io-search.php:16 inc/functions/io-single-app.php:393
+msgid "软件"
+msgstr ""
+
+#: inc/functions/io-search.php:17
+msgid "书籍"
+msgstr ""
+
+#: inc/functions/io-single-app.php:69 inc/functions/io-single-site.php:108
+msgid "去官方网站了解更多"
+msgstr ""
+
+#: inc/functions/io-single-app.php:88 inc/functions/io-single-app.php:255
+msgid "历史版本"
+msgstr ""
+
+#: inc/functions/io-single-app.php:92
+msgid "版本"
+msgstr ""
+
+#: inc/functions/io-single-app.php:93
+msgid "日期"
+msgstr ""
+
+#: inc/functions/io-single-app.php:94
+msgid "大小"
+msgstr ""
+
+#: inc/functions/io-single-app.php:95
+msgid "状态"
+msgstr ""
+
+#: inc/functions/io-single-app.php:96
+msgid "语言"
+msgstr ""
+
+#: inc/functions/io-single-app.php:108
+msgid "最新"
+msgstr ""
+
+#: inc/functions/io-single-app.php:111 inc/functions/io-single-app.php:164
+#: templates/title.php:59
+msgid "官方版"
+msgstr ""
+
+#: inc/functions/io-single-app.php:111 inc/functions/io-single-app.php:164
+#: templates/title.php:59
+msgid "开心版"
+msgstr ""
+
+#: inc/functions/io-single-app.php:165 templates/title.php:59
+msgid "有广告"
+msgstr ""
+
+#: inc/functions/io-single-app.php:165 templates/title.php:59
+msgid "无广告"
+msgstr ""
+
+#: inc/functions/io-single-app.php:170 inc/functions/io-single-site.php:256
+msgid "更新日期："
+msgstr ""
+
+#: inc/functions/io-single-app.php:171 inc/functions/io-single-site.php:257
+msgid "分类标签："
+msgstr ""
+
+#: inc/functions/io-single-app.php:172
+msgid "语言："
+msgstr ""
+
+#: inc/functions/io-single-app.php:173 inc/functions/io-single-site.php:258
+msgid "平台："
+msgstr ""
+
+#: inc/functions/io-single-app.php:206 inc/functions/io-single-app.php:207
+#, php-format
+msgid "%s的使用截图"
+msgstr ""
+
+#: inc/functions/io-single-app.php:241
+msgid "没限制"
+msgstr ""
+
+#: inc/functions/io-single-app.php:258 inc/functions/io-single-site.php:266
+msgid "人已下载"
+msgstr ""
+
+#: inc/functions/io-single-app.php:263 inc/functions/io-single-site.php:271
+#: inc/functions/io-single-site.php:374
+msgid "手机查看"
+msgstr ""
+
+#: inc/functions/io-single-app.php:284 inc/functions/io-single-site.php:261
+msgid "立即下载"
+msgstr ""
+
+#: inc/functions/io-single-app.php:284 inc/functions/io-single-book.php:235
+#: iopay/functions/iopay-post.php:139
+msgid "立即购买"
+msgstr ""
+
+#: inc/functions/io-single-app.php:288
+msgid "购买"
+msgstr ""
+
+#: inc/functions/io-single-app.php:320
+msgid "去购买"
+msgstr ""
+
+#: inc/functions/io-single-book.php:87 inc/functions/io-single-site.php:297
+msgid "下载地址: "
+msgstr ""
+
+#: inc/functions/io-single-book.php:102
+msgid "季刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:105
+msgid "双月刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:108 inc/functions/io-single-book.php:120
+msgid "月刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:111
+msgid "半月刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:114
+msgid "旬刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:117
+msgid "周刊"
+msgstr ""
+
+#: inc/functions/io-single-book.php:143 inc/functions/io-single-site.php:333
+#: inc/postviews/postviews.php:227 inc/widgets.php:657
+msgid "浏览"
+msgstr ""
+
+#: inc/functions/io-single-book.php:178
+msgid "系列"
+msgstr ""
+
+#: inc/functions/io-single-book.php:216
+msgid "下载资源"
+msgstr ""
+
+#: inc/functions/io-single-post.php:96
+msgid "版权声明"
+msgstr ""
+
+#: inc/functions/io-single-post.php:110 inc/functions/io-single-post.php:116
+#: single-bulletin.php:79 single-bulletin.php:85
+msgid "上一篇"
+msgstr ""
+
+#: inc/functions/io-single-post.php:117 inc/functions/io-single-post.php:130
+#: single-bulletin.php:86 single-bulletin.php:99
+msgid "没有更多了..."
+msgstr ""
+
+#: inc/functions/io-single-post.php:123 inc/functions/io-single-post.php:129
+#: single-bulletin.php:92 single-bulletin.php:98
+msgid "下一篇"
+msgstr ""
+
+#: inc/functions/io-single-site.php:28
+msgid "数据评估"
+msgstr ""
+
+#: inc/functions/io-single-site.php:53 inc/functions/io-single-site.php:714
+msgid "反馈"
+msgstr ""
+
+#: inc/functions/io-single-site.php:116
+msgid "数据统计"
+msgstr ""
+
+#: inc/functions/io-single-site.php:177
+msgid "翻译站点"
+msgstr ""
+
+#: inc/functions/io-single-site.php:265
+msgid "大小未知"
+msgstr ""
+
+#: inc/functions/io-single-site.php:341
+msgid "链接已失效"
+msgstr ""
+
+#: inc/functions/io-single-site.php:358
+msgid "小程序"
+msgstr ""
+
+#: inc/functions/io-single-site.php:360 inc/functions/io-single-site.php:367
+#: inc/functions/io-single-site.php:577 inc/functions/io-single-site.php:593
+msgid "居然没有添加二维码"
+msgstr ""
+
+#: inc/functions/io-single-site.php:400
+msgid "链接直达"
+msgstr ""
+
+#: inc/functions/io-single-site.php:413
+msgid "其他站点:"
+msgstr ""
+
+#: inc/functions/io-single-site.php:420
+msgid "经过确认，此站已经关闭，故本站不再提供跳转，仅保留存档。"
+msgstr ""
+
+#: inc/functions/io-single-site.php:425 templates/cat-list.php:26
+msgid "标签："
+msgstr ""
+
+#: inc/functions/io-single-site.php:579 inc/functions/io-single-site.php:595
+msgid "没有 url"
+msgstr ""
+
+#: inc/functions/io-single-site.php:693
+msgid "已失效"
+msgstr ""
+
+#: inc/functions/io-single-site.php:695
+msgid "已屏蔽"
+msgstr ""
+
+#: inc/functions/io-single-site.php:696
+msgid "敏感内容"
+msgstr ""
+
+#: inc/functions/io-single-site.php:697
+msgid "其他"
+msgstr ""
+
+#: inc/functions/io-single-site.php:721
+msgid "让我们一起共建文明社区！您的反馈至关重要！"
+msgstr ""
+
+#: inc/functions/io-single-site.php:730
+msgid "已可访问"
+msgstr ""
+
+#: inc/functions/io-single-site.php:740
+msgid "其它信息，可选"
+msgstr ""
+
+#: inc/functions/io-single-site.php:743
+msgid "重定向&变更后的地址"
+msgstr ""
+
+#: inc/functions/io-single-site.php:746
+msgid "提交反馈"
+msgstr ""
+
+#: inc/functions/io-single-site.php:774 inc/functions/io-single-site.php:780
+msgid "信息不能为空！"
+msgstr ""
+
+#: inc/functions/io-single-site.php:802 inc/theme-start.php:503
+#: templates/user/user.uc.sites.php:314 templates/user/user.uc.sites.php:399
+#: templates/user/user.uc.sites.php:430 templates/user/user.uc.sites.php:461
+#: templates/user/user.uc.sites.php:514 templates/user/user.uc.sites.php:549
+#: templates/user/user.uc.sites.php:618 templates/user/user.uc.sites.php:646
+#: templates/user/user.uc.sites.php:670 templates/user/user.uc.sites.php:719
+#: templates/user/user.uc.sites.php:748 templates/user/user.uc.sites.php:805
+msgid "网络错误 --."
+msgstr ""
+
+#: inc/functions/io-tool.php:378 inc/functions/io-tool.php:390
+msgid "m月d日 H:i"
+msgstr ""
+
+#: inc/functions/io-tool.php:381
+msgid "后天"
+msgstr ""
+
+#: inc/functions/io-tool.php:384
+msgid "明天"
+msgstr ""
+
+#: inc/functions/io-tool.php:387
+msgid "今天"
+msgstr ""
+
+#: inc/functions/io-tools-hotcontent.php:47
+msgid "没有数据！请开启统计并等待产生数据"
+msgstr ""
+
+#: inc/functions/io-user.php:79
+msgid "游客"
+msgstr ""
+
+#: inc/functions/io-user.php:82
+msgid "管理员"
+msgstr ""
+
+#: inc/functions/io-user.php:88
+msgid "作者"
+msgstr ""
+
+#: inc/functions/io-user.php:91
+msgid "投稿者"
+msgstr ""
+
+#: inc/functions/io-user.php:94
+msgid "读者"
+msgstr ""
+
+#: inc/functions/io-user.php:163
+msgid "旧邮箱"
+msgstr ""
+
+#: inc/functions/io-user.php:164
+msgid "旧手机号"
+msgstr ""
+
+#: inc/functions/io-user.php:242
+msgid "你没有绑定邮箱！"
+msgstr ""
+
+#: inc/functions/io-user.php:246
+msgid "你没有绑定手机号！"
+msgstr ""
+
+#: inc/functions/io-user.php:260
+msgid "前往绑定"
+msgstr ""
+
+#: inc/functions/io-user.php:322 inc/functions/io-user.php:328
+#: inc/functions/io-user.php:351 inc/functions/io-user.php:354
+msgid "帐号"
+msgstr ""
+
+#: inc/functions/io-user.php:323 inc/functions/io-user.php:352
+msgid "解绑"
+msgstr ""
+
+#: inc/functions/io-user.php:323 inc/functions/io-user.php:352
+msgid "已绑定"
+msgstr ""
+
+#: inc/functions/io-user.php:328 inc/functions/io-user.php:354
+msgid "绑定"
+msgstr ""
+
+#: inc/functions/io-user.php:361
+msgid "账号绑定"
+msgstr ""
+
+#: inc/functions/io-user.php:480
+msgid "修改邮箱"
+msgstr ""
+
+#: inc/functions/io-user.php:480 inc/functions/io-user.php:651
+#: templates/login/bind.php:97
+msgid "绑定邮箱"
+msgstr ""
+
+#: inc/functions/io-user.php:486
+msgid "修改手机号"
+msgstr ""
+
+#: inc/functions/io-user.php:486 templates/login/bind.php:99
+msgid "绑定手机号"
+msgstr ""
+
+#: inc/functions/io-user.php:491 inc/functions/io-user.php:661
+msgid "设置密码"
+msgstr ""
+
+#: inc/functions/io-user.php:491 inc/functions/io-user.php:668
+msgid "修改密码"
+msgstr ""
+
+#: inc/functions/io-user.php:495
+msgid "重设密码"
+msgstr ""
+
+#: inc/functions/io-user.php:510
+#, php-format
+msgid "验证旧%s"
+msgstr ""
+
+#: inc/functions/io-user.php:511
+#, php-format
+msgid "设置新%s"
+msgstr ""
+
+#: inc/functions/io-user.php:512
+msgid "修改成功"
+msgstr ""
+
+#: inc/functions/io-user.php:541
+msgid "获取验证码以验证旧邮箱："
+msgstr ""
+
+#: inc/functions/io-user.php:542
+msgid "获取验证码以验证旧手机号："
+msgstr ""
+
+#: inc/functions/io-user.php:548 inc/functions/io-user.php:585
+#: inc/functions/io-user.php:749
+msgid "验证码"
+msgstr ""
+
+#: inc/functions/io-user.php:549 inc/functions/io-user.php:586
+#: inc/functions/io-user.php:750 templates/login/bind.php:169
+#: templates/login/reg.php:82
+msgid "发送验证码"
+msgstr ""
+
+#: inc/functions/io-user.php:556
+msgid "立即验证"
+msgstr ""
+
+#: inc/functions/io-user.php:571
+msgid "请输入邮箱"
+msgstr ""
+
+#: inc/functions/io-user.php:572
+msgid "请输入手机号"
+msgstr ""
+
+#: inc/functions/io-user.php:575
+msgid "请输入您需要修改的新邮箱。"
+msgstr ""
+
+#: inc/functions/io-user.php:576
+msgid "请输入您需要修改的新手机号。"
+msgstr ""
+
+#: inc/functions/io-user.php:594 inc/functions/io-user.php:721
+msgid "确认提交"
+msgstr ""
+
+#: inc/functions/io-user.php:615
+msgid "用户协议"
+msgstr ""
+
+#: inc/functions/io-user.php:618
+msgid "隐私声明"
+msgstr ""
+
+#: inc/functions/io-user.php:622
+msgid "阅读并同意"
+msgstr ""
+
+#: inc/functions/io-user.php:634 inc/theme-start.php:520
+msgid "请先阅读并同意用户协议"
+msgstr ""
+
+#: inc/functions/io-user.php:656
+msgid "绑定手机"
+msgstr ""
+
+#: inc/functions/io-user.php:673
+msgid "换绑账号"
+msgstr ""
+
+#: inc/functions/io-user.php:675
+msgid "已绑定："
+msgstr ""
+
+#: inc/functions/io-user.php:677
+msgid "绑定账号"
+msgstr ""
+
+#: inc/functions/io-user.php:703
+msgid "请输入原密码"
+msgstr ""
+
+#: inc/functions/io-user.php:710
+msgid "请输入新密码"
+msgstr ""
+
+#: inc/functions/io-user.php:714
+msgid "请再次输入新密码"
+msgstr ""
+
+#: inc/functions/io-user.php:726
+msgid "忘记密码？点击重设密码。"
+msgstr ""
+
+#: inc/functions/io-user.php:753 templates/login/bind.php:177
+#: templates/login/login.php:66 templates/login/reg.php:86
+msgid "密码"
+msgstr ""
+
+#: inc/functions/io-user.php:757 templates/login/reg.php:90
+msgid "确认密码"
+msgstr ""
+
+#: inc/functions/io-user.php:763 inc/shortcode.php:304
+#: templates/user/user.uc.sites.php:108 templates/user/user.uc.sites.php:200
+#: templates/user/user.uc.sites.php:482 templates/user/user.uc.sites.php:762
+msgid "提交"
+msgstr ""
+
+#: inc/functions/io-widgets.php:31 inc/functions/io-widgets.php:91
+#: inc/functions/io-widgets.php:164 inc/functions/io-widgets.php:205
+#: inc/widgets/w.hot.apps.php:135 inc/widgets/w.hot.books.php:122
+#: inc/widgets/w.hot.post.php:133 templates/bookmark/bm.sites.php:113
+#: templates/bookmark/bm.sites.php:125
+msgid "没有数据！"
+msgstr ""
+
+#: inc/hot-search.php:100
+msgid "没有获取到内容。"
+msgstr ""
+
+#: inc/inc.php:214 inc/inc.php:223 templates/contribute/sites.php:27
+#: templates/user/user.uc.settings.php:97 templates/user/user.uc.stars.php:48
+msgid "网址"
+msgstr ""
+
+#: inc/inc.php:231 inc/inc.php:246
+msgid "图书"
+msgstr ""
+
+#: inc/inc.php:234
+msgid "期刊"
+msgstr ""
+
+#: inc/inc.php:237
+msgid "电影"
+msgstr ""
+
+#: inc/inc.php:240
+msgid "电视剧"
+msgstr ""
+
+#: inc/inc.php:243
+msgid "小视频"
+msgstr ""
+
+#: inc/inc.php:284
+msgid "请到[后台->外观->菜单]中添加“搜索推荐”菜单。"
+msgstr ""
+
+#: inc/inc.php:286
+msgid "请到[后台->外观->菜单]中设置菜单。"
+msgstr ""
+
+#: inc/inc.php:548
+msgid "置顶"
+msgstr ""
+
+#: inc/inc.php:568
+msgid "新"
+msgstr ""
+
+#: inc/inc.php:815
+msgid "帅气的我简直无法用语言描述！"
+msgstr ""
+
+#: inc/inc.php:1290 inc/inc.php:1299 inc/inc.php:1310
+msgid "收藏"
+msgstr ""
+
+#: inc/inc.php:1324 inc/inc.php:1333
+msgid "点赞"
+msgstr ""
+
+#: inc/inc.php:1344
+msgid "赞"
+msgstr ""
+
+#: inc/inc.php:1842
+msgid "刚刚"
+msgstr ""
+
+#: inc/inc.php:1844
+msgid "年前"
+msgstr ""
+
+#: inc/inc.php:1845
+msgid "个月前"
+msgstr ""
+
+#: inc/inc.php:1846
+msgid "周前"
+msgstr ""
+
+#: inc/inc.php:1847
+msgid "天前"
+msgstr ""
+
+#: inc/inc.php:1848
+msgid "小时前"
+msgstr ""
+
+#: inc/inc.php:1849
+msgid "分钟前"
+msgstr ""
+
+#: inc/inc.php:1850
+msgid "秒前"
+msgstr ""
+
+#: inc/inc.php:1886
+msgid "博主"
+msgstr ""
+
+#: inc/inc.php:1934
+msgid "头衔："
+msgstr ""
+
+#: inc/inc.php:2022
+msgid "请勿冒充管理员发表评论！"
+msgstr ""
+
+#: inc/inc.php:2035
+msgid "别啊，昵称和评论里面添加链接会怀孕的哟！！"
+msgstr ""
+
+#: inc/inc.php:2039 inc/inc.php:2042
+msgid "评论必须含中文！"
+msgstr ""
+
+#: inc/inc.php:2047
+#, php-format
+msgid "不好意思，您的评论违反了%s博客评论规则"
+msgstr ""
+
+#: inc/inc.php:2492 inc/inc.php:2510
+#, php-format
+msgid "查看与 %s 相关的文章"
+msgstr ""
+
+#: inc/inc.php:2915
+#, php-format
+msgid "%s在「%s」中回复了你"
+msgstr ""
+
+#: inc/inc.php:2923 inc/inc.php:2926
+#, php-format
+msgid "%s在你的文章「%s」中发表了评论"
+msgstr ""
+
+#: inc/inc.php:2983
+#, php-format
+msgid "欢迎来到%s，请首先在个人设置中完善您的账号信息。"
+msgstr ""
+
+#: inc/inc.php:3040
+#, php-format
+msgid "获得注册奖励%s"
+msgstr ""
+
+#: inc/inc.php:3049
+#, php-format
+msgid "获得注册推广（来自%s的注册）奖励%s"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:61 inc/mailfunc/mailfunc.php:114
+#, php-format
+msgid "%s上的文章有了新的回复"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:83 inc/mailfunc/mailfunc.php:100
+#: inc/mailfunc/mailfunc.php:102
+#, php-format
+msgid "%1$s在%2$s中回复你"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:86
+#, php-format
+msgid "我在%1$s中回复了你"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:131
+msgid "你的博客空间登录提醒"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:149
+msgid "你的博客空间登录错误警告"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:182
+#, php-format
+msgid "你的登录密码重置链接-%1$s"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:197
+#, php-format
+msgid "[%s]新的友情链接待审核"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:232
+msgid "邮箱修改成功"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:232
+msgid "邮箱绑定成功"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:233
+msgid "您的账号绑定的邮箱已修改"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:233
+msgid "您的账号已成功绑定邮箱"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:234 inc/mailfunc/mailfunc.php:238
+#, php-format
+msgid "由 %s 修改为 %s"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:234
+msgid "邮箱："
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:236
+msgid "手机号修改成功"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:236
+msgid "手机号绑定成功"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:237
+msgid "您的账号绑定的手机号已修改"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:237
+msgid "您的账号已成功绑定手机号"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:238
+msgid "手机号："
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:240
+msgid "您好，"
+msgstr ""
+
+#: inc/mailfunc/mailfunc.php:243
+msgid "如非您本人操作，请及时与客服联系！"
+msgstr ""
+
+#: inc/mailfunc/option.php:147
+msgid "此为系统自动发送邮件, 请勿直接回复"
+msgstr ""
+
+#: inc/mailfunc/option.php:148
+msgid "版权所有"
+msgstr ""
+
+#: inc/open-login.php:87
+msgid "社交帐号登录"
+msgstr ""
+
+#: inc/open-login.php:146
+#, php-format
+msgid "%s快速登录"
+msgstr ""
+
+#: inc/open-login.php:261
+msgid "绑定失败，可能之前已有其他账号绑定，请先登录并解绑。"
+msgstr ""
+
+#: inc/open-login.php:295 templates/login/reg.php:62
+msgid "禁止注册"
+msgstr ""
+
+#: inc/open-login.php:398
+msgid "用户"
+msgstr ""
+
+#: inc/open-login.php:455
+#, php-format
+msgid "该用户已经绑定了 %s 账号"
+msgstr ""
+
+#: inc/search-list.php:21
+msgid "常用"
+msgstr ""
+
+#: inc/search-list.php:26 inc/search-list.php:63
+msgid "百度一下"
+msgstr ""
+
+#: inc/search-list.php:32 inc/search-list.php:69
+msgid "谷歌两下"
+msgstr ""
+
+#: inc/search-list.php:37 templates/search/big.php:42
+msgid "站内"
+msgstr ""
+
+#: inc/search-list.php:38 templates/search/big.php:66
+msgid "站内搜索"
+msgstr ""
+
+#: inc/search-list.php:43 inc/search-list.php:44 inc/search-list.php:191
+#: inc/search-list.php:192
+msgid "淘宝"
+msgstr ""
+
+#: inc/search-list.php:50 inc/search-list.php:87
+msgid "微软Bing搜索"
+msgstr ""
+
+#: inc/search-list.php:58 templates/breadcrumb.php:62
+msgid "搜索"
+msgstr ""
+
+#: inc/search-list.php:75
+msgid "360好搜"
+msgstr ""
+
+#: inc/search-list.php:80
+msgid "搜狗"
+msgstr ""
+
+#: inc/search-list.php:81
+msgid "搜狗搜索"
+msgstr ""
+
+#: inc/search-list.php:92
+msgid "神马"
+msgstr ""
+
+#: inc/search-list.php:93
+msgid "UC移动端搜索"
+msgstr ""
+
+#: inc/search-list.php:101
+msgid "工具"
+msgstr ""
+
+#: inc/search-list.php:105
+msgid "权重查询"
+msgstr ""
+
+#: inc/search-list.php:106 inc/search-list.php:112 inc/search-list.php:118
+#: inc/search-list.php:124
+msgid "请输入网址(不带https://)"
+msgstr ""
+
+#: inc/search-list.php:111
+msgid "友链检测"
+msgstr ""
+
+#: inc/search-list.php:117
+msgid "备案查询"
+msgstr ""
+
+#: inc/search-list.php:123
+msgid "SEO查询"
+msgstr ""
+
+#: inc/search-list.php:129
+msgid "关键词挖掘"
+msgstr ""
+
+#: inc/search-list.php:130 inc/search-list.php:136 inc/search-list.php:142
+msgid "请输入关键词"
+msgstr ""
+
+#: inc/search-list.php:135
+msgid "素材搜索"
+msgstr ""
+
+#: inc/search-list.php:141
+msgid "大数据词云"
+msgstr ""
+
+#: inc/search-list.php:150
+msgid "社区"
+msgstr ""
+
+#: inc/search-list.php:154 inc/search-list.php:155
+msgid "知乎"
+msgstr ""
+
+#: inc/search-list.php:172 inc/search-list.php:173
+msgid "豆瓣"
+msgstr ""
+
+#: inc/search-list.php:178
+msgid "搜外问答"
+msgstr ""
+
+#: inc/search-list.php:179
+msgid "SEO问答社区"
+msgstr ""
+
+#: inc/search-list.php:187
+msgid "生活"
+msgstr ""
+
+#: inc/search-list.php:197 inc/search-list.php:198
+msgid "京东"
+msgstr ""
+
+#: inc/search-list.php:203 inc/search-list.php:204
+msgid "下厨房"
+msgstr ""
+
+#: inc/search-list.php:209 inc/search-list.php:210
+msgid "香哈菜谱"
+msgstr ""
+
+#: inc/search-list.php:221 inc/search-list.php:222
+msgid "快递100"
+msgstr ""
+
+#: inc/search-list.php:227 inc/search-list.php:228
+msgid "去哪儿"
+msgstr ""
+
+#: inc/shortcode.php:221 inc/widgets.php:654
+msgid "评论"
+msgstr ""
+
+#: inc/shortcode.php:223
+msgid "密码验证"
+msgstr ""
+
+#: inc/shortcode.php:229
+msgid "管理员可见"
+msgstr ""
+
+#: inc/shortcode.php:233
+msgid "作者可见"
+msgstr ""
+
+#: inc/shortcode.php:273
+#, php-format
+msgid "隐藏内容%s"
+msgstr ""
+
+#: inc/shortcode.php:301
+msgid "密码错误，请重新输入"
+msgstr ""
+
+#: inc/shortcode.php:303
+msgid "请输入密码"
+msgstr ""
+
+#: inc/shortcode.php:335
+msgid "隐藏内容！"
+msgstr ""
+
+#: inc/shortcode.php:336
+#, php-format
+msgid "%s后才能查看！"
+msgstr ""
+
+#: inc/theme-start.php:501
+msgid "您已经赞过了!"
+msgstr ""
+
+#: inc/theme-start.php:502
+msgid "谢谢点赞!"
+msgstr ""
+
+#: inc/theme-start.php:504
+msgid "为什么不选分类。"
+msgstr ""
+
+#: inc/theme-start.php:505
+msgid "添加成功。"
+msgstr ""
+
+#: inc/theme-start.php:506
+msgid "访问超时，请再试试，或者手动填写。"
+msgstr ""
+
+#: inc/theme-start.php:507
+msgid "日间模式"
+msgstr ""
+
+#: inc/theme-start.php:510 templates/login/bind.php:150
+#: templates/login/bind.php:187
+msgid "确定"
+msgstr ""
+
+#: inc/theme-start.php:511
+msgid "该网址已经存在了 --."
+msgstr ""
+
+#: inc/theme-start.php:512 templates/tools-customize.php:90
+#: templates/tools-customizeforuser.php:275
+msgid "取消"
+msgstr ""
+
+#: inc/theme-start.php:513
+msgid "成功"
+msgstr ""
+
+#: inc/theme-start.php:514
+msgid "信息"
+msgstr ""
+
+#: inc/theme-start.php:515 templates/user/user.uc.sites.php:688
+msgid "警告"
+msgstr ""
+
+#: inc/theme-start.php:516
+msgid "错误"
+msgstr ""
+
+#: inc/theme-start.php:517
+msgid "网盘提取码已复制，点“确定”进入下载页面。"
+msgstr ""
+
+#: inc/theme-start.php:518
+msgid "请稍候"
+msgstr ""
+
+#: inc/theme-start.php:519
+msgid "正在处理请稍后..."
+msgstr ""
+
+#: inc/theme-start.php:521
+msgid "秒后重新发送"
+msgstr ""
+
+#: inc/theme-start.php:522
+msgid "微信支付"
+msgstr ""
+
+#: inc/theme-start.php:524
+msgid "请扫码支付"
+msgstr ""
+
+#: inc/theme-start.php:525
+msgid "支付成功，页面跳转中"
+msgstr ""
+
+#: inc/theme-start.php:544
+msgid "再试一次"
+msgstr ""
+
+#: inc/theme-start.php:545
+msgid "向右滑动填充拼图"
+msgstr ""
+
+#: inc/theme-start.php:546
+msgid "加载失败"
+msgstr ""
+
+#: inc/widgets.php:205 templates/hot/hot-api.php:25
+#: templates/hot/hot-json.php:25
+msgid "更多"
+msgstr ""
+
+#: inc/widgets.php:660
+msgid "获赞"
+msgstr ""
+
+#: inc/widgets/w.about.website.php:148
+msgid "收录网站"
+msgstr ""
+
+#: inc/widgets/w.about.website.php:151
+msgid "收录 App"
+msgstr ""
+
+#: inc/widgets/w.about.website.php:157
+msgid "访客"
+msgstr ""
+
+#: inc/widgets/w.random.sites.php:104 templates/hot/hot-api.php:27
+#: templates/hot/hot-json.php:27
+msgid "刷新"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:41
+msgid "PHP session 数据获取失败"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:48
+msgid "请选择支付方式"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:54
+msgid "数据获取失败"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:60 iopay/functions/iopay-ajax.php:192
+msgid "订单创建失败"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:85
+msgid "已占位，请5分钟内支付。"
+msgstr ""
+
+#: iopay/action/ajax-pay.php:100
+msgid "未生成订单！"
+msgstr ""
+
+#: iopay/action/ajax.php:75
+msgid "微信支付错误："
+msgstr ""
+
+#: iopay/admin/functions/f-ad.php:174 iopay/admin/functions/f-order.php:155
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#. translators: %s: Search query.
+#: iopay/admin/page/order.php:185
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: iopay/functions/functions.php:134
+msgid "积分"
+msgstr ""
+
+#: iopay/functions/functions.php:180
+msgid "立即支付"
+msgstr ""
+
+#: iopay/functions/functions.php:190
+msgid "暂时无法支付，请与客服联系！"
+msgstr ""
+
+#: iopay/functions/functions.php:228
+msgid "付费内容"
+msgstr ""
+
+#: iopay/functions/functions.php:230 iopay/functions/iopay-post.php:295
+msgid "付费资源"
+msgstr ""
+
+#: iopay/functions/functions.php:231
+msgid "自动广告"
+msgstr ""
+
+#: iopay/functions/functions.php:290
+#, php-format
+msgid "[%s]新自动广告需审核"
+msgstr ""
+
+#: iopay/functions/functions.php:293
+#, php-format
+msgid "[%s]自动广告入驻通知"
+msgstr ""
+
+#: iopay/functions/functions.php:299
+#, php-format
+msgid "您在站点「%s」申请的自动广告待审核"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:44
+msgid "原价"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:117
+msgid "请填写您的的网站！"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:120
+msgid "url格式有误！"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:123
+msgid "联系邮箱错误！"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:130 iopay/widgets/w-auto-ad.php:398
+#, php-format
+msgid "至少需要充值%s"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:133 iopay/widgets/w-auto-ad.php:401
+#, php-format
+msgid "最高充值%s"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:149 iopay/functions/iopay-ajax.php:153
+msgid "数据获取错误!"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:164
+msgid "订单金额异常！"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:186
+msgid "支付"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:206
+msgid "支付成功"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:242
+#, php-format
+msgid "自定义时间(%s)"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:248
+#, php-format
+msgid "最少%s，最多%s"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:252
+msgid "选择时间"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:271
+#: templates/widget/widget-carousel-post.php:21
+msgid "所有"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:277
+msgid "入驻位置"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:280
+msgid "入驻广告"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:288
+msgid "联系邮箱"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:301
+msgid "链接参数"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:303
+msgid "请输名称"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:304
+msgid "请输URL"
+msgstr ""
+
+#: iopay/functions/iopay-ajax.php:315
+msgid "加入队列"
+msgstr ""
+
+#: iopay/functions/iopay-pay.php:69 iopay/functions/iopay-pay.php:116
+#: iopay/functions/iopay-pay.php:158 iopay/functions/iopay-pay.php:266
+#: iopay/functions/iopay-pay.php:269 iopay/functions/iopay-pay.php:347
+#: iopay/functions/iopay-pay.php:442 iopay/functions/iopay-pay.php:500
+#: iopay/functions/iopay-pay.php:548 iopay/functions/iopay-pay.php:598
+msgid "支付接口参数错误！"
+msgstr ""
+
+#: iopay/functions/iopay-pay.php:89 iopay/functions/iopay-pay.php:109
+msgid "支付接口参数错误，签名失败！"
+msgstr ""
+
+#: iopay/functions/iopay-pay.php:139
+msgid "处理完成，请扫码支付"
+msgstr ""
+
+#: iopay/functions/iopay-pay.php:141
+msgid "跳转到支付宝APP付款"
+msgstr ""
+
+#: iopay/functions/iopay-pay.php:534
+msgid "收款码请求失败"
+msgstr ""
+
+#: iopay/functions/iopay-post.php:212 iopay/functions/iopay-post.php:246
+msgid "订单号："
+msgstr ""
+
+#: iopay/functions/iopay-post.php:323
+msgid "隐藏内容"
+msgstr ""
+
+#: iopay/functions/iopay-post.php:369 iopay/widgets/w-buy-sidebar.php:148
+msgid "已购买"
+msgstr ""
+
+#: iopay/functions/iopay-post.php:456
+msgid "登录购买"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:105
+msgid "欢迎入驻！"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:209
+#, php-format
+msgid "抱歉，%s没有空位，%s 后有才空余，感谢等待！"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:258
+msgid "未知错误，请联系管理员处理。"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:332
+msgid "小时"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:333
+msgid "天"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:334 template-rankings.php:145
+msgid "月"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:345 templates/bookmark/bm.footer.php:30
+#: templates/breadcrumb.php:15 templates/breadcrumb.php:21
+#: templates/breadcrumb.php:52 templates/login/login.php:80
+#: templates/login/reg.php:102
+msgid "首页"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:346
+msgid "内页"
+msgstr ""
+
+#: iopay/widgets/w-auto-ad.php:347
+msgid "所有位置"
+msgstr ""
+
+#: iopay/widgets/w-buy-sidebar.php:140
+msgid "下载地址"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "有关“%s”的%s"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "“%s”的搜索结果"
+msgstr ""
+
+#: sidebar-blog.php:21 sidebar-bulletin.php:24 sidebar-bulletin.php:39
+#: sidebar.php:29 sidebar.php:50 sidebar.php:63
+msgid "添加小工具"
+msgstr ""
+
+#: sidebar-blog.php:24
+msgid "点此为“博客布局侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar-bulletin.php:27 sidebar-bulletin.php:42
+msgid "点此为“公告侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar.php:32
+msgid "点此为“正文侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar.php:53
+msgid "点此为“页面侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar.php:66
+msgid "点此为“分类归档侧边栏”添加小工具"
+msgstr ""
+
+#: single-app.php:41 single-book.php:41
+#, php-format
+msgid "相关%s"
+msgstr ""
+
+#: single-bulletin.php:19 template-bulletin.php:17
+msgid "公告"
+msgstr ""
+
+#: single-bulletin.php:21
+msgid "所有公告"
+msgstr ""
+
+#: single-sites.php:41
+msgid "相关导航"
+msgstr ""
+
+#: single.php:36
+msgid "相关文章"
+msgstr ""
+
+#: template-blog.php:21
+msgid "最新文章"
+msgstr ""
+
+#: template-bulletin.php:19
+msgid "总计："
+msgstr ""
+
+#: template-bulletin.php:53
+msgid "Y年m月d日"
+msgstr ""
+
+#: template-contribute.php:20
+msgid "投稿须知"
+msgstr ""
+
+#: template-contribute.php:40 template-contribute.php:46
+msgid "新网址"
+msgstr ""
+
+#: template-contribute.php:43
+msgid "新文章"
+msgstr ""
+
+#: template-contribute.php:49
+msgid "新APP"
+msgstr ""
+
+#: template-contribute.php:52
+msgid "新书籍"
+msgstr ""
+
+#: template-contribute.php:72
+msgid "无权操作，请联系管理员！"
+msgstr ""
+
+#: template-contribute.php:74
+msgid "需要登录才能访问！"
+msgstr ""
+
+#: template-contribute.php:88
+msgid "只能上传图片！"
+msgstr ""
+
+#: template-contribute.php:89
+msgid "图片类型只能是jpeg,jpg,png！"
+msgstr ""
+
+#: template-contribute.php:90
+msgid "网络连接错误！"
+msgstr ""
+
+#: template-contribute.php:91
+msgid "请选择文件！"
+msgstr ""
+
+#: template-contribute.php:94
+msgid "获取失败，请再试试，或者手动填写！"
+msgstr ""
+
+#: template-contribute.php:95
+msgid "获取成功，没有的请手动填写！"
+msgstr ""
+
+#: template-contribute.php:96
+msgid "访问超时，请再试试，或者手动填写！"
+msgstr ""
+
+#: template-contribute.php:97
+msgid "验证码错误！"
+msgstr ""
+
+#: template-contribute.php:98
+msgid "请先验证！！！"
+msgstr ""
+
+#: template-contribute.php:99
+msgid "链接格式错误！"
+msgstr ""
+
+#: template-contribute.php:100
+msgid "请先填写网址链接！"
+msgstr ""
+
+#: template-contribute.php:101
+msgid "验证成功"
+msgstr ""
+
+#: template-contribute.php:102
+msgid "您取消了验证！"
+msgstr ""
+
+#: template-contribute.php:103
+msgid "验证"
+msgstr ""
+
+#: template-rankings.php:12
+msgid "网址热度排行榜"
+msgstr ""
+
+#: template-rankings.php:16
+msgid "网址今日点击榜"
+msgstr ""
+
+#: template-rankings.php:20
+msgid "网址昨日点击榜"
+msgstr ""
+
+#: template-rankings.php:24
+msgid "网址本月点击榜"
+msgstr ""
+
+#: template-rankings.php:28
+msgid "网址点击总榜"
+msgstr ""
+
+#: template-rankings.php:34
+msgid "软件热度排行榜"
+msgstr ""
+
+#: template-rankings.php:38
+msgid "软件今日点击榜"
+msgstr ""
+
+#: template-rankings.php:42
+msgid "软件昨日点击榜"
+msgstr ""
+
+#: template-rankings.php:46
+msgid "软件本月点击榜"
+msgstr ""
+
+#: template-rankings.php:50
+msgid "软件点击总榜"
+msgstr ""
+
+#: template-rankings.php:56
+msgid "书籍热度排行榜"
+msgstr ""
+
+#: template-rankings.php:60
+msgid "书籍今日点击榜"
+msgstr ""
+
+#: template-rankings.php:64
+msgid "书籍昨日点击榜"
+msgstr ""
+
+#: template-rankings.php:68
+msgid "书籍本月点击榜"
+msgstr ""
+
+#: template-rankings.php:72
+msgid "书籍点击总榜"
+msgstr ""
+
+#: template-rankings.php:78
+msgid "资讯热度排行榜"
+msgstr ""
+
+#: template-rankings.php:82
+msgid "资讯今日点击榜"
+msgstr ""
+
+#: template-rankings.php:86
+msgid "资讯昨日点击榜"
+msgstr ""
+
+#: template-rankings.php:90
+msgid "资讯本月点击榜"
+msgstr ""
+
+#: template-rankings.php:94
+msgid "资讯点击总榜"
+msgstr ""
+
+#: template-rankings.php:143
+msgid "今"
+msgstr ""
+
+#: template-rankings.php:144
+msgid "昨"
+msgstr ""
+
+#: template-rankings.php:146
+msgid "总"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:68
+msgid "设置"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:78 templates/bookmark/bm.quick.php:90
+msgid "登录后可拥有自定义书签页"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:90
+msgid "返回我的书签"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:102
+msgid "的书签"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:110
+msgid "共享书签"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:110
+msgid "复制分享"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:112
+msgid "私有"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:114
+msgid "共享"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:114
+msgid "私有或者共享给所有人使用"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:120
+msgid "内链跳转&直链"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:122
+msgid "内链"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:124
+msgid "直链"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:129
+msgid "隐藏标题"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:131
+msgid "隐藏"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:133
+msgid "显示"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:137
+msgid "标题文字"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:138 templates/bookmark/bm.sites.php:45
+#: templates/tools-customize.php:19 templates/tools-customizeforuser.php:44
+msgid "我的导航"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:141
+msgid "选择快速导航分类"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:155
+msgid "选择背景"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:155
+msgid "动态背景会影响性能"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:156
+msgid "自定义图片(url)"
+msgstr ""
+
+#: templates/bookmark/bm.header.php:175
+msgid "保存"
+msgstr ""
+
+#: templates/bookmark/bm.sites.php:37 templates/tools-customizeforuser.php:34
+msgid "每日推荐"
+msgstr ""
+
+#: templates/bookmark/bm.sites.php:46 templates/title.php:154
+#: templates/tools-customizeforuser.php:46 templates/user/user.menu.php:48
+#: templates/user/user.uc.stars.php:38 templates/widget/header-user.php:28
+msgid "我的收藏"
+msgstr ""
+
+#: templates/bookmark/bm.sites.php:53
+msgid "管理"
+msgstr ""
+
+#: templates/bookmark/bm.sites.php:154 templates/tools-customizeforuser.php:227
+msgid "您还没有收藏内容！等待你的参与哦 ^_^"
+msgstr ""
+
+#: templates/breadcrumb.php:15 templates/breadcrumb.php:52
+msgid "现在位置"
+msgstr ""
+
+#: templates/breadcrumb.php:37
+msgid "正文"
+msgstr ""
+
+#: templates/breadcrumb.php:43
+msgid "附件"
+msgstr ""
+
+#: templates/breadcrumb.php:60
+msgid "亲，你迷路了！"
+msgstr ""
+
+#: templates/bulletin.php:44
+msgid "关闭"
+msgstr ""
+
+#: templates/card-appcard.php:50
+msgid "没添加标签"
+msgstr ""
+
+#: templates/card-site.php:19 templates/card-sitemax.php:18
+#: templates/card-sitemini.php:18
+msgid "直达"
+msgstr ""
+
+#: templates/card-site.php:23 templates/card-sitemax.php:22
+#: templates/card-sitemini.php:22
+msgid "详情"
+msgstr ""
+
+#: templates/cat-list.php:34
+msgid "作者："
+msgstr ""
+
+#: templates/cat-list.php:37
+msgid "我还没有学会写个人说明！"
+msgstr ""
+
+#: templates/contribute/app.php:19
+msgid "资源图标:"
+msgstr ""
+
+#: templates/contribute/app.php:23
+msgid "网站图标"
+msgstr ""
+
+#: templates/contribute/app.php:36
+msgid "资源名称 *"
+msgstr ""
+
+#: templates/contribute/app.php:44
+msgid "资源描述 *"
+msgstr ""
+
+#: templates/contribute/app.php:52
+msgid "资源版本"
+msgstr ""
+
+#: templates/contribute/app.php:60
+msgid "官网链接"
+msgstr ""
+
+#: templates/contribute/app.php:68
+msgid "网盘链接"
+msgstr ""
+
+#: templates/contribute/app.php:76
+msgid "演示链接"
+msgstr ""
+
+#: templates/contribute/app.php:84
+msgid "网盘密码"
+msgstr ""
+
+#: templates/contribute/app.php:92
+msgid "解压密码"
+msgstr ""
+
+#: templates/contribute/app.php:102
+msgid "选择分类 *"
+msgstr ""
+
+#: templates/contribute/app.php:117
+msgid "资源介绍(使用说明):"
+msgstr ""
+
+#: templates/contribute/post.php:25 templates/contribute/sites.php:21
+msgid "提交审核"
+msgstr ""
+
+#: templates/contribute/post.php:27 templates/contribute/sites.php:23
+msgid "提交发布"
+msgstr ""
+
+#: templates/contribute/post.php:42
+msgid "请输入文章标题"
+msgstr ""
+
+#: templates/contribute/post.php:68
+msgid "文章选项"
+msgstr ""
+
+#: templates/contribute/post.php:71
+msgid "分类"
+msgstr ""
+
+#: templates/contribute/post.php:76 templates/contribute/sites.php:125
+msgid "选择分类"
+msgstr ""
+
+#: templates/contribute/post.php:91 templates/contribute/sites.php:141
+msgid "输入标签"
+msgstr ""
+
+#: templates/contribute/post.php:92 templates/contribute/sites.php:142
+msgid "填写标签，每个标签用逗号隔开"
+msgstr ""
+
+#: templates/contribute/post.php:98 templates/contribute/sites.php:148
+#: templates/title.php:148 templates/widget/header-user.php:26
+msgid "用户信息"
+msgstr ""
+
+#: templates/contribute/post.php:103 templates/contribute/sites.php:153
+msgid "请输入昵称"
+msgstr ""
+
+#: templates/contribute/post.php:105 templates/contribute/sites.php:155
+msgid "联系方式"
+msgstr ""
+
+#: templates/contribute/post.php:106 templates/contribute/sites.php:156
+msgid "输入联系方式"
+msgstr ""
+
+#: templates/contribute/sites.php:53
+msgid "图标:"
+msgstr ""
+
+#: templates/contribute/sites.php:57
+msgid "图标"
+msgstr ""
+
+#: templates/contribute/sites.php:70 templates/user/user.uc.sites.php:197
+msgid "名称"
+msgstr ""
+
+#: templates/contribute/sites.php:84
+msgid "公众号ID(微信号)"
+msgstr ""
+
+#: templates/contribute/sites.php:93
+msgid "链接"
+msgstr ""
+
+#: templates/contribute/sites.php:95
+msgid "一键填写"
+msgstr ""
+
+#: templates/contribute/sites.php:104
+msgid "简介"
+msgstr ""
+
+#: templates/contribute/sites.php:108
+msgid "输入网址介绍"
+msgstr ""
+
+#: templates/contribute/sites.php:118
+msgid "网址选项"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: templates/friendlink.php:17
+msgid "友情链接"
+msgstr ""
+
+#: templates/friendlink.php:33
+msgid "更多链接"
+msgstr ""
+
+#: templates/hot/hot-api.php:83 templates/hot/hot-json.php:93
+msgid "获取失败，请再试一次！"
+msgstr ""
+
+#: templates/login/bind.php:15
+msgid "绑定邮箱完成注册"
+msgstr ""
+
+#: templates/login/bind.php:18
+msgid "输入邮箱"
+msgstr ""
+
+#: templates/login/bind.php:100
+msgid "输入手机号"
+msgstr ""
+
+#: templates/login/bind.php:153
+msgid "登录并绑定"
+msgstr ""
+
+#: templates/login/bind.php:153
+msgid "绑定现有账号"
+msgstr ""
+
+#: templates/login/bind.php:174 templates/login/login.php:63
+msgid "用户名/手机号/邮箱"
+msgstr ""
+
+#: templates/login/bind.php:174 templates/login/login.php:63
+msgid "用户名或邮箱"
+msgstr ""
+
+#: templates/login/bind.php:189 templates/login/reg.php:113
+msgid "退出登录"
+msgstr ""
+
+#: templates/login/login.php:59
+msgid "欢迎回来"
+msgstr ""
+
+#: templates/login/login.php:74
+msgid "记住我的登录信息"
+msgstr ""
+
+#: templates/login/login.php:83
+msgid "没有账号？"
+msgstr ""
+
+#: templates/login/login.php:83 templates/login/lost.php:19
+#: templates/login/lost.php:54
+msgid "找回密码"
+msgstr ""
+
+#: templates/login/reg.php:63
+msgid "请联系管理员！"
+msgstr ""
+
+#: templates/login/reg.php:65 templates/login/reg.php:105
+msgid "已有账号?"
+msgstr ""
+
+#: templates/login/reg.php:74 templates/user/user.uc.settings.php:45
+msgid "用户名"
+msgstr ""
+
+#: templates/login/reg.php:111
+msgid "注册成功"
+msgstr ""
+
+#: templates/login/reg.php:116
+msgid "管理站点"
+msgstr ""
+
+#: templates/login/reg.php:118 templates/title.php:163
+msgid "用户中心"
+msgstr ""
+
+#: templates/login/reg.php:122
+msgid "3秒后自动跳转"
+msgstr ""
+
+#: templates/related-app.php:78 templates/related-book.php:78
+#: templates/related-post.php:63 templates/related-sites.php:90
+msgid "没有相关内容!"
+msgstr ""
+
+#: templates/search/big.php:56 templates/search/default.php:43
+#: templates/search/mini.php:19 templates/search/modal.php:43
+msgid "输入关键字搜索"
+msgstr ""
+
+#: templates/sidebar-nav.php:69
+msgid "返回上级"
+msgstr ""
+
+#: templates/title.php:28
+#, php-format
+msgid "%s的搜索结果"
+msgstr ""
+
+#: templates/title.php:127
+#, php-format
+msgid "“%s”年所有文章"
+msgstr ""
+
+#: templates/title.php:128
+#, php-format
+msgid "“%s”份所有文章"
+msgstr ""
+
+#: templates/title.php:129
+#, php-format
+msgid "“%s”所有文章"
+msgstr ""
+
+#: templates/title.php:129
+msgid "Y年n月j日"
+msgstr ""
+
+#: templates/title.php:135
+msgid "没有你要找的内容"
+msgstr ""
+
+#: templates/title.php:140
+msgid "今日热榜"
+msgstr ""
+
+#: templates/title.php:151 templates/user/user.menu.php:46
+#: templates/user/user.uc.notifications.php:42
+msgid "站内消息"
+msgstr ""
+
+#: templates/title.php:157 templates/user/user.menu.php:47
+#: templates/user/user.uc.sites.php:36 templates/widget/header-user.php:27
+msgid "网址管理"
+msgstr ""
+
+#: templates/title.php:160 templates/user/user.menu.php:49
+msgid "账户安全"
+msgstr ""
+
+#: templates/title.php:168
+msgid "新标签页"
+msgstr ""
+
+#: templates/title.php:303
+#, php-format
+msgid "第 %s 页"
+msgstr ""
+
+#: templates/tools-customize.php:21 templates/tools-customizeforuser.php:48
+msgid "最近使用"
+msgstr ""
+
+#: templates/tools-customize.php:74 templates/tools-customizeforuser.php:235
+msgid "没有数据！等待你的参与哦 ^_^"
+msgstr ""
+
+#: templates/tools-customize.php:84 templates/tools-customizeforuser.php:245
+msgid "添加自定义网址"
+msgstr ""
+
+#: templates/tools-customize.php:84
+msgid "登录后可以保存到账号！"
+msgstr ""
+
+#: templates/tools-customize.php:86 templates/tools-customizeforuser.php:266
+msgid "网站名称"
+msgstr ""
+
+#: templates/tools-customizeforuser.php:245
+msgid "前往用户中心管理网址更方便"
+msgstr ""
+
+#: templates/tools-customizeforuser.php:249
+msgid "选择分类："
+msgstr ""
+
+#: templates/tools-customizeforuser.php:260
+msgid "或者自定义分类"
+msgstr ""
+
+#: templates/tools-customizeforuser.php:268
+#: templates/user/user.uc.sites.php:107 templates/user/user.uc.sites.php:199
+#: templates/user/user.uc.sites.php:481
+msgid "输入简介（选填）"
+msgstr ""
+
+#: templates/tools-customizeforuser.php:269
+#: templates/user/user.uc.sites.php:201
+msgid "网址信息获取失败，请再试试，或者手动填写。"
+msgstr ""
+
+#: templates/tools-customizeforuser.php:278 templates/user/user.uc.sites.php:39
+#: templates/user/user.uc.sites.php:42
+msgid "导入 chrome 书签"
+msgstr ""
+
+#: templates/user/user.menu.php:45 templates/user/user.uc.settings.php:34
+msgid "个人资料"
+msgstr ""
+
+#: templates/user/user.menu.php:50 templates/widget/header-user.php:35
+msgid "安全退出"
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:42
+#, php-format
+msgid "总共 %d 条消息"
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:49
+msgid "发送者: "
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:69
+#: templates/user/user.uc.notifications.php:71
+msgid "上一页"
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:75
+#, php-format
+msgid "第 %d 页"
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:77
+#, php-format
+msgid "共 %d 页"
+msgstr ""
+
+#: templates/user/user.uc.notifications.php:81
+#: templates/user/user.uc.notifications.php:83
+msgid "下一页"
+msgstr ""
+
+#: templates/user/user.uc.security.php:39
+msgid "安全信息"
+msgstr ""
+
+#: templates/user/user.uc.security.php:55
+msgid "你确定要解除绑定？"
+msgstr ""
+
+#: templates/user/user.uc.security.php:55
+msgid "解绑前请先设置邮箱和密码，否则可能造成账号丢失！"
+msgstr ""
+
+#: templates/user/user.uc.security.php:55
+msgid "是否继续？"
+msgstr ""
+
+#: templates/user/user.uc.security.php:82
+#: templates/user/user.uc.settings.php:146
+msgid "网络错误！"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:52
+msgid "账号ID"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:58
+msgid "头像"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:61
+msgid "上传头像"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:67
+msgid "自定义"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:74
+msgid "默认"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:86
+#, php-format
+msgid "%s头像"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:103
+msgid "个人描述"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:109
+msgid "个人封面"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:112
+msgid "更换封面"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:120
+#: templates/user/user.uc.settings.php:141
+#: templates/user/user.uc.settings.php:145
+msgid "保存资料"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:133
+msgid "保存中..."
+msgstr ""
+
+#: templates/user/user.uc.settings.php:179
+msgid "头像设置成功！"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:182
+msgid "头像设置失败！"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:214
+msgid "封面设置成功！"
+msgstr ""
+
+#: templates/user/user.uc.settings.php:217
+msgid "封面设置失败！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:60 templates/user/user.uc.sites.php:100
+#: templates/user/user.uc.sites.php:474 templates/user/user.uc.sites.php:818
+msgid "修改"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:61 templates/user/user.uc.sites.php:112
+#: templates/user/user.uc.sites.php:486
+msgid "删除"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:70 templates/user/user.uc.sites.php:141
+msgid "添加分类"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:126
+#, php-format
+msgid "添加书签到“%s”"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:181
+msgid "添加网址"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:194
+msgid "URL 地址（http://）"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:207
+msgid "添加官方收录网址到书签"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:283 templates/user/user.uc.sites.php:331
+msgid "选取的文件必须是HTML文件！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:286
+msgid "注意"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:286
+msgid "你选取了文件： "
+msgstr ""
+
+#: templates/user/user.uc.sites.php:286
+msgid "是否继续导入？"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:344
+msgid "读取文件时发生错误！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:376
+msgid "URL 无效！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:436 templates/user/user.uc.sites.php:496
+msgid "请输入内容！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:688
+msgid "此分类内包含多个网址，是否继续删除分类并清空网址？"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:725 templates/user/user.uc.sites.php:768
+msgid "请输入分类名称！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:772
+msgid "分类名称不能使用特殊字符和空格！"
+msgstr ""
+
+#: templates/user/user.uc.sites.php:776
+msgid "名称没有变化！"
+msgstr ""
+
+#: templates/user/user.uc.stars.php:51
+msgid "APP&资源"
+msgstr ""
+
+#: templates/user/user.uc.stars.php:54
+msgid "书籍&影视"
+msgstr ""
+
+#: templates/user/user.uc.stars.php:57
+msgid "文章资讯"
+msgstr ""
+
+#: templates/widget/header-user.php:22
+msgid "后台管理"
+msgstr ""
+
+#: templates/widget/header-user.php:25
+msgid "个人中心"
+msgstr ""
+
+#: templates/widget/header-user.php:29
+msgid "安全设置"
+msgstr ""
+
+#: templates/widget/widget-carousel-post.php:20
+#: templates/widget/widget-carousel-post.php:21
+msgid "最新资讯"
+msgstr ""
+
+#: templates/widget/widget-swiper.php:32 templates/widget/widget-swiper.php:43
+msgid "查看详情"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "OneNav"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.iotheme.cn"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "一导航， 集网址、资源、资讯于一体的导航主题。 <br /> 官网：<a href=\"https://www.iotheme.cn\">一主题</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "一为"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.iowen.cn/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "博客页面"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "公告列表"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "投稿模板"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "次级导航"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "排行榜"
+msgstr ""

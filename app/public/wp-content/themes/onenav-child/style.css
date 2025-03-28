@@ -1,0 +1,17 @@
+/*
+Theme Name: OneNav Child
+Theme URI: https://www.iotheme.cn
+Template: onenav
+Author: 一为
+Author URI: https://www.iowen.cn/
+Description: 一导航， 集网址、资源、资讯于一体的导航主题。 官网：一主题
+Version: 4.1810.1727599902
+Updated: 2024-09-29 08:51:42
+
+*/
+#ez_toc_widget_sticky-4 .ez-toc-widget-sticky-list li a, .ez-toc-widget-sticky-container-ez_toc_widget_sticky-4 .ez-toc-widget-sticky-list li a {
+    font-size: 40%;
+    font-weight: 400;
+    color: inherit;
+    font-family: rubik;
+}

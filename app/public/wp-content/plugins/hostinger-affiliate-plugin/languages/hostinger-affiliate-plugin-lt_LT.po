@@ -1,0 +1,1763 @@
+# Copyright (C) 2023 Hostinger
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Affiliate Plugin 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-"
+"affiliate-plugin\n"
+"Last-Translator: Linas\n"
+"Language-Team: Lithuanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-28T09:55:18+00:00\n"
+"PO-Revision-Date: 2025-03-04 08:50+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-affiliate-plugin\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:882
+msgid " Add new table"
+msgstr "Pridėti naują lentelę"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:794
+msgid " Add/Edit products to list"
+msgstr "Pridėti / koreguoti rodomus produktus"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:840
+msgid " Edit table"
+msgstr "Koreguoti lentelę"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:440
+msgid " Search for product(s) without ASIN"
+msgstr "Ieškoti produkto (-ų) be ASIN"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:820
+msgid "-- Choose table data --"
+msgstr "-- Rinktis lentelės duomenis --"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:620
+#: gutenberg-block/src/edit.js:653 gutenberg-block/src/edit.js:981
+msgid "-- Select from list --"
+msgstr "-- Rinktis iš sąrašo --"
+
+#: src/Localization/AdminTranslations.php:22
+msgid "Access key"
+msgstr "Prieigos raktas"
+
+#: src/Localization/AdminTranslations.php:30
+#, fuzzy
+msgid "Access key cannot contain special characters"
+msgstr "Prieigos rakte negali būti specialiųjų simbolių"
+
+#: src/Localization/AdminTranslations.php:31
+#, fuzzy
+msgid "Access key must be 20 characters long"
+msgstr "Prieigos raktas turi būti 20 simbolių ilgio"
+
+#: src/Localization/AdminTranslations.php:29
+#, fuzzy
+msgid "Access key must be combination of letters and numbers"
+msgstr "Prieigos raktas turi būti raidžių ir skaičių derinys"
+
+#: src/Localization/AdminTranslations.php:151
+msgid "Add"
+msgstr "Pridėti"
+
+#: src/Localization/AdminTranslations.php:64 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:315
+msgid "Add a few products and describe them briefly."
+msgstr "Pridėkite keletą produktų ir trumpai juos aprašykite."
+
+#: src/Localization/AdminTranslations.php:52
+msgid "Add a new post"
+msgstr "Pridėti naują įrašą"
+
+#: gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/products_selected.js:212
+msgid "Add a new product"
+msgstr "Pridėti naują produktą"
+
+#: src/Localization/AdminTranslations.php:183 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/views/TableConfiguration.jsx:90
+msgid "Add a new table configuration"
+msgstr "Pridėti naują lentelės konfigūraciją"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:305
+msgid "Add a single product with detailed description."
+msgstr "Pridėti tik produktą be detalaus aprašymo."
+
+#: src/Localization/AdminTranslations.php:174
+msgid "Add at least 2 products to continue."
+msgstr "Norint tęsti, pridėk bent 2 produktus."
+
+#: src/Localization/AdminTranslations.php:179
+#, fuzzy
+msgid "Add at least one product data row."
+msgstr "Pridėkite bent vieną gaminio duomenų eilutę."
+
+#: src/Localization/AdminTranslations.php:176
+msgid "Add at least two products to continue"
+msgstr "Norint tęsti, pridėk bent du produktus."
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:16
+msgid "Add best-sellers"
+msgstr "Pridėti geriausiai parduodamus"
+
+#: src/Localization/AdminTranslations.php:165
+msgid "Add highlight"
+msgstr "Paryškinti"
+
+#: src/Localization/AdminTranslations.php:66 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:325
+msgid "Add multiple similar products and compare them."
+msgstr "Pridėkite kelis panašius produktus ir juos palyginkite."
+
+#: src/Localization/AdminTranslations.php:152 gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/product_selector.js:172
+msgid "Add product"
+msgstr "Pridėti produktą"
+
+#: src/Localization/AdminTranslations.php:127 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_selector_multiple.js:273
+msgid "Add products"
+msgstr "Pridėti produktus"
+
+#: src/Localization/AdminTranslations.php:164
+msgid "Add row"
+msgstr "Pridėti eilę"
+
+#: src/Localization/AdminTranslations.php:131
+msgid "Add table"
+msgstr "Pridėti lentelę"
+
+#: src/Localization/AdminTranslations.php:129
+#| msgid "Add the row data"
+msgid "Add the product data"
+msgstr "Pridėti produkto duomenis"
+
+#: src/Localization/AdminTranslations.php:109
+msgid "Add the product(s)"
+msgstr "Pridėkite produktą (-us)"
+
+#: src/Localization/AdminTranslations.php:105
+msgid "Add “Link Amazon product(s)” in block editor"
+msgstr "Bloko redaktoriuje pridėkite „Nuorodą į Amazon produktą (-us)“"
+
+#: src/Localization/AdminTranslations.php:17
+msgid ""
+"Adding an Access key and Secret key will make your search results more "
+"accurate."
+msgstr ""
+"Pridėjus prieigos raktą ir slaptąjį raktą, paieškos rezultatai bus tikslesni."
+
+#: src/Setup/Cpts.php:41
+msgid "Affiliate tables"
+msgstr "Partnerystės lentelės"
+
+#: src/Localization/AdminTranslations.php:110
+msgid ""
+"After choosing the layout, you need to find the product(s) that you want to "
+"promote in your post. You can copy-paste the ASIN or search the product(s) "
+"manually."
+msgstr ""
+"Pasirinkę maketą, suraskite produktą (-us), kurį (-iuos) norite reklamuoti "
+"savo įraše. Galite nukopijuoti ir įklijuoti ASIN kodą arba ieškoti produkto "
+"(-ų) rankiniu būdu."
+
+#: src/Admin/Menus.php:54 src/Admin/Menus.php:55 src/Admin/Menus.php:73
+#: src/Localization/AdminTranslations.php:83
+msgid "Amazon Affiliate"
+msgstr "Amazon Affiliate"
+
+#: src/Localization/Messages.php:16
+msgid "Amazon API returned an error."
+msgstr "Amazon API pateikė klaidą."
+
+#: src/Localization/AdminTranslations.php:123
+msgid "Amazon api was disconnected!"
+msgstr "Amazon API atjungtas!"
+
+#: src/Repositories/TableRepository.php:292
+msgid "Amazon Button"
+msgstr "Amazon mygtukas"
+
+#: src/Localization/AdminTranslations.php:124
+msgid "Amazon settings were successfully saved!"
+msgstr "Amazon nustatymai sėkmingai išsaugoti!"
+
+#: src/Localization/AdminTranslations.php:21
+msgid "API Settings"
+msgstr "API nustatymai"
+
+#: src/Localization/AdminTranslations.php:37
+msgid "API status"
+msgstr "API būsena"
+
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/products_selected.js:124
+#: gutenberg-block/src/edit.js:544 gutenberg-block/src/edit.js:782
+msgid "ASIN"
+msgstr "ASIN"
+
+#: src/Localization/AdminTranslations.php:195
+msgid ""
+"ASIN is a unique 10-digit code Amazon assigns to products in its catalog. "
+"You can find it on the product detail page."
+msgstr ""
+"ASIN yra unikalus 10 skaitmenų kodas, kurį Amazon priskiria kataloge "
+"esantiems produktams. Jį rasite produkto informacijos puslapyje."
+
+#: src/Localization/Messages.php:20 gutenberg-block/dist/index.js:2
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/products_selected.js:60
+#: gutenberg-block/src/components/product_selector.js:65
+#: gutenberg-block/src/components/product_selector_multiple.js:66
+msgid "ASIN validation failed. Please check entered product ASIN!"
+msgstr "Nepavyko patvirtinti ASIN. Patikrinkite ar teisingai įvedėte duomenis!"
+
+#. translators: %s: PHP version
+#: hostinger-affiliate-plugin.php:101
+msgid "Attention:"
+msgstr "Dėmesio:"
+
+#: src/Localization/AdminTranslations.php:205
+msgid "Australia"
+msgstr "Australija"
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_type_selector.js:38
+#: gutenberg-block/src/edit.js:624
+msgid "Automatically based on best-sellers"
+msgstr "Automatiškai pagal populiariausius"
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:80
+msgid "Automatically generate product list"
+msgstr "Automatiškai generuoti produktų sąrašą"
+
+#: src/Localization/AdminTranslations.php:90
+msgid "Back"
+msgstr "Atgal"
+
+#: src/Localization/AdminTranslations.php:206
+msgid "Belgium"
+msgstr "Belgija"
+
+#. translators: %d: bestseller place
+#: src/Shortcodes/templates/lists/horizontal-cards.php:20
+#: src/Shortcodes/templates/lists/list-with-description.php:16
+#: src/Shortcodes/templates/lists/simplified-list.php:37
+msgid "Bestseller #%d"
+msgstr "Populiariausias #%d"
+
+#: src/Localization/AdminTranslations.php:207
+msgid "Brazil"
+msgstr "Brazilija"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:937
+msgid "Buy button"
+msgstr "Pirkimo mygtukas"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:379
+msgid "Buy button overwrite enabled?"
+msgstr "Pirkimo mygtuko perrašymas įjungtas?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:391
+msgid "Buy button text"
+msgstr "Pirkimo mygtuko tekstas"
+
+#: src/Models/Product.php:247
+msgid "Buy on Amazon"
+msgstr "Pirkti per Amazon"
+
+#: src/Localization/AdminTranslations.php:208
+msgid "Canada"
+msgstr "Kanada"
+
+#: src/Localization/AdminTranslations.php:135 src/Setup/Blocks.php:285
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: gutenberg-block/dist/index.js:1
+#: gutenberg-block/src/components/selected_display_type.js:32
+msgid "Change main layout"
+msgstr "Keisti pagrindinį išdėstymą"
+
+#: src/Localization/AdminTranslations.php:89
+#, fuzzy
+msgid ""
+"Check out our quick guide for tips on how to start using this plugin and "
+"start earning."
+msgstr ""
+"Peržiūrėkite mūsų trumpąjį vadovą, kuriame rasite patarimų, kaip pradėti "
+"naudoti šį įskiepį ir pradėti uždirbti."
+
+#: src/Setup/Blocks.php:243
+msgid "Check your search term and try again"
+msgstr "Patikrink paieškos užklausą ir pabandyk dar kartą"
+
+#: src/Localization/AdminTranslations.php:27
+msgid "Choose Amazon region ..."
+msgstr "Pasirinkite Amazon regioną..."
+
+#: src/Localization/AdminTranslations.php:60
+msgid ""
+"Choose any template for your needs  – all of them are integrated with the "
+"Gutenberg editor."
+msgstr ""
+"Pasirinkite bet kurį šabloną pagal savo poreikius – jie visi integruoti su "
+"Gutenberg redaktoriumi."
+
+#: gutenberg-block/dist/index.js:4 gutenberg-block/src/edit.js:1048
+msgid "Choose how the product block will look like in your post"
+msgstr "Rinkitės, kaip produktų blokai atrodys jūsų įraše"
+
+#: src/Localization/AdminTranslations.php:107
+msgid "Choose the layout for the product(s) block"
+msgstr "Pasirinkite produkto (-ų) bloko išdėstymą"
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:24
+#: gutenberg-block/src/components/product_selector_multiple.js:239
+msgid "Choose the layout of your product list"
+msgstr "Rinkitės jūsų produktų sąrašo išdėstymą"
+
+#: src/Localization/AdminTranslations.php:186 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/views/TableConfiguration.jsx:53
+msgid "Choose the table configuration"
+msgstr "Rinkitės lentelės konfigūraciją"
+
+#: src/Localization/AdminTranslations.php:78
+#, fuzzy
+#| msgid "Choose which products to compare and set up your table’s rows."
+msgid "Choose which products to compare and set up your table's rows."
+msgstr "Pasirink, kuriuos produktus lyginti, ir nustatyk lentelės eilutes."
+
+#: src/Localization/AdminTranslations.php:134
+msgid "Close"
+msgstr "Uždaryti"
+
+#: src/Localization/AdminTranslations.php:74 gutenberg-block/dist/index.js:4
+#: gutenberg-block/src/edit.js:1088
+msgid "Coming soon"
+msgstr "Jau greitai"
+
+#: src/Localization/AdminTranslations.php:65 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:324 gutenberg-block/src/edit.js:1001
+msgid "Comparison Table"
+msgstr "Palyginimų lentelė"
+
+#: src/Localization/AdminTranslations.php:80
+msgid "Configure"
+msgstr "Konfigūruoti"
+
+#: src/Setup/Blocks.php:291
+msgid "Confirm selection"
+msgstr "Patvirtinti pasirinkimą"
+
+#: src/Localization/AdminTranslations.php:36
+msgid "Connect"
+msgstr "Prijungti"
+
+#: src/Localization/AdminTranslations.php:47
+msgid "Connect  your Amazon Associates Account"
+msgstr "Prijunk savo Amazon Associates paskyrą"
+
+#: src/Localization/AdminTranslations.php:34
+msgid "Connect Amazon account"
+msgstr "Prijungti Amazon paskyrą"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:518
+msgid "Connect Now"
+msgstr "Prijungti dabar"
+
+#: src/Localization/AdminTranslations.php:58
+msgid "Connect With Your Amazon Account"
+msgstr "Prisijungti su Amazon paskyra"
+
+#: src/Localization/AdminTranslations.php:12
+#: src/Localization/AdminTranslations.php:50
+msgid "Connect Your Amazon Account"
+msgstr "Prijungti Amazon paskyrą"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:497
+msgid "Connect Your Amazon Partnership Account"
+msgstr "Prijunkite savo Amazon Partnership paskyrą"
+
+#: src/Localization/AdminTranslations.php:39
+msgid "Connected"
+msgstr "Prisijungta"
+
+#: src/Localization/AdminTranslations.php:41
+msgid "Connected to Partner ID:"
+msgstr "Prisijungta prie partnerio ID:"
+
+#: src/Errors/AmazonApiError.php:41 src/Errors/AmazonApiError.php:91
+msgid "Contact Hostinger support for further assistance."
+msgstr "Jei reikia pagalbos, kreipkis į Hostinger klientų aptarnavimo tarnybą."
+
+#: src/Localization/AdminTranslations.php:133 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:53
+#: gutenberg-block/src/components/product_selector_multiple.js:210
+#: gutenberg-block/src/views/TableConfiguration.jsx:63
+msgid "Continue"
+msgstr "Tęsti"
+
+#: src/Localization/AdminTranslations.php:79
+msgid "Copied successfully!"
+msgstr "Nukopijuota sėkmingai!"
+
+#. translators: %s: ASIN helper page URL
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_selector.js:148
+#: gutenberg-block/src/components/product_selector_multiple.js:184
+msgid ""
+"Copy-paste Amazon product ASIN. <a href=\"%s\" target=\"_blank\">Where to "
+"find it?</a>"
+msgstr ""
+"Nukopijuokite ir įklijuokite Amazon produkto ASIN. <a href=\"%s\" "
+"target=\"_blank\">Kur jį rasti?</a>"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:368
+msgid "Count of items to show in list."
+msgstr "Sąraše rodomų elementų skaičius."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:269
+msgid "Count of list items in product description."
+msgstr "Produktų aprašyme nurodytų elementų skaičius."
+
+#: src/Localization/AdminTranslations.php:25
+msgid "Country"
+msgstr "Šalis"
+
+#: src/Localization/AdminTranslations.php:42
+#: src/Localization/AdminTranslations.php:103
+#: src/Localization/AdminTranslations.php:114
+msgid "Create a new post"
+msgstr "Sukurti naują įrašą"
+
+#: src/Localization/AdminTranslations.php:73
+msgid "Create and manage your comparison tables."
+msgstr "Kurk ir valdyk palyginimo lenteles."
+
+#: src/Localization/AdminTranslations.php:116
+#| msgid "Create new table"
+msgid "Create table"
+msgstr "Kurti lentelę"
+
+#: src/Localization/AdminTranslations.php:76
+msgid "Create your first comparison table"
+msgstr "Sukurk pirmąją palyginimo lentelę"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:568
+msgid "Custom product title."
+msgstr "Pasirinktinis produkto pavadinimas."
+
+#: src/Localization/AdminTranslations.php:160
+msgid "Date created"
+msgstr "Sukūrimo data"
+
+#: src/Localization/AdminTranslations.php:136
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: src/Localization/AdminTranslations.php:142
+msgid "Delete product?"
+msgstr "Ištrinti produktą?"
+
+#: src/Localization/AdminTranslations.php:137
+#| msgid "Delete table?"
+msgid "Delete table"
+msgstr "Ištrinti lentelę"
+
+#: src/Localization/AdminTranslations.php:141
+msgid "Delete this table?"
+msgstr "Ištrinti šią lentelę?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:247
+#: gutenberg-block/src/edit.js:924
+msgid "Description"
+msgstr "Aprašymas"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:223
+msgid "Description enabled?"
+msgstr "Aprašymas įjungtas?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:260
+msgid "Description Items"
+msgstr "Aprašymo elementai"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:279
+msgid "Description length"
+msgstr "Aprašymo ilgis"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:234
+msgid "Description overwrite enabled?"
+msgstr "Aprašymo perrašymas įjungtas?"
+
+#: src/Localization/AdminTranslations.php:157
+msgid "Determine who will see the table"
+msgstr "Nuspręskite, kas matys šią lentelę"
+
+#: src/Localization/AdminTranslations.php:43
+msgid "Disconnect"
+msgstr "Atsijungti"
+
+#: src/Localization/AdminTranslations.php:40
+msgid "Disconnected"
+msgstr "Atsijungta"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:720
+msgid "Display Bestseller #"
+msgstr "Rodyti populiariausius #"
+
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:99
+#: gutenberg-block/src/components/product_selector.js:164
+#: gutenberg-block/src/components/product_selector_multiple.js:150
+#: gutenberg-block/src/components/product_selector_multiple.js:202
+#: gutenberg-block/src/components/product_selector_multiple.js:265
+msgid ""
+"Don’t worry. You can edit the layout and product in the Block configuration "
+"in the right sidebar anytime."
+msgstr ""
+"Išdėstymą ir produktus bet kada galėsite keisti dešinėje pusėje esančioje "
+"šoninėje juostoje."
+
+#. translators: %s: ASIN.
+#: src/Localization/AdminTranslations.php:190
+msgid "Duplicate ASIN: %s was not added."
+msgstr "ASIN dublikatas: %s nepridėtas."
+
+#: src/Localization/AdminTranslations.php:56
+msgid "Earn Commissions"
+msgstr "Užsidirbkite komisinius"
+
+#: src/Localization/AdminTranslations.php:84
+msgid "Edit your Amazon API details"
+msgstr "Redaguokite savo Amazon API informaciją"
+
+#: src/Localization/AdminTranslations.php:209
+msgid "Egypt"
+msgstr "Egiptas"
+
+#: src/Localization/AdminTranslations.php:177
+#, fuzzy
+msgid "Enable at least two products to continue"
+msgstr "Įgalinkite bent du produktus tęsti"
+
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/products_selected.js:173
+#: gutenberg-block/src/components/products_selected.js:177
+#: gutenberg-block/src/components/product_selector.js:156
+#: gutenberg-block/src/components/product_selector_multiple.js:193
+msgid "Enter ASIN here"
+msgstr "Įveskite ASIN čia"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:547
+msgid "Enter ASIN here..."
+msgstr "Įveskite ASIN čia..."
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:92
+msgid "Enter product keywords here, example: corsair rgb keyboard"
+msgstr "Čia įveskite produkto raktinius žodžius, pvz., corsair rgb klaviatūra"
+
+#: src/Localization/AdminTranslations.php:169
+msgid "Enter text label. For example: Best Price"
+msgstr "Įveskite tekstinę etiketę. Pavyzdys: Geriausia kaina"
+
+#: src/Localization/AdminTranslations.php:132
+msgid "Enter your table name"
+msgstr "Įvesk lentelės pavadinimą"
+
+#. translators: %s: missing field key name
+#: src/Localization/Messages.php:12
+msgid "Field %s is empty."
+msgstr "%s yra tuščias."
+
+#: src/Localization/AdminTranslations.php:13
+msgid "Fill API details from Amazon Product Advertising dashboard to start"
+msgstr ""
+"Norėdami pradėti, įveskite API informaciją iš Amazon produktų reklamos "
+"prietaisų skydo"
+
+#: src/Localization/AdminTranslations.php:18
+msgid "Find your API credentials"
+msgstr "Surask savo API duomenis"
+
+#: src/Localization/AdminTranslations.php:92
+msgid "Find your Tracking ID"
+msgstr "Rask savo sekimo ID"
+
+#: src/Localization/AdminTranslations.php:104
+msgid ""
+"First thing first, you need to create a post. Make sure to create the post "
+"with the specific niche to be more related with your visitors."
+msgstr ""
+"Pirmiausia sukurkite įrašą. Jį rašydami stenkitės galvoti apie tikslinę "
+"auditoriją, kad įrašas labiau patrauktų lankytojų dėmesį."
+
+#: src/Localization/AdminTranslations.php:49
+msgid ""
+"Follow this step-by-step guide to start earning your affiliate commission in "
+"no time."
+msgstr ""
+"Vadovaukitės šiuo išsamiu vadovu ir akimirksniu pradėkite uždirbti "
+"komisinius."
+
+#: src/Localization/AdminTranslations.php:210
+msgid "France"
+msgstr "Prancūzija"
+
+#: src/Localization/AdminTranslations.php:93
+msgid "General"
+msgstr "Bendra"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:974
+msgid "General Settings"
+msgstr "Bendrieji nustatymai"
+
+#: src/Localization/AdminTranslations.php:173
+msgid "General settings"
+msgstr "Bendrieji nustatymai"
+
+#: src/Localization/AdminTranslations.php:211
+msgid "Germany"
+msgstr "Vokietija"
+
+#: src/Localization/AdminTranslations.php:67
+msgid "Get Started"
+msgstr "Pradėti"
+
+#: src/Localization/AdminTranslations.php:88
+#, fuzzy
+msgid "Got it"
+msgstr "Turiu"
+
+#. translators: %s: Amazon store region
+#: src/Setup/Blocks.php:259
+msgid "Here you will see products from your store region on <b>%s</b>."
+msgstr "Čia matysite savo parduotuvės regiono produktus <b>%s</b>."
+
+#: src/Setup/Blocks.php:261
+msgid "Here you will see products from your store region."
+msgstr "Čia matysite produktus iš savo parduotuvės regiono."
+
+#: src/Localization/AdminTranslations.php:166
+msgid "Highlight settings"
+msgstr "Paryškinimo nustatymai"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:350
+#: gutenberg-block/src/edit.js:664
+msgid "Horizontal cards"
+msgstr "Horizontalios kortelės"
+
+#. Author of the plugin
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#: src/Localization/AdminTranslations.php:100
+msgid "Hostinger Academy"
+msgstr "Hostinger akademija"
+
+#. Plugin Name of the plugin
+msgid "Hostinger Amazon Affiliate Connector"
+msgstr "Hostinger Amazon Affiliate Connector"
+
+#. Description of the plugin
+msgid "Hostinger Amazon Affiliate Connector."
+msgstr "Hostinger Amazon Affiliate Connector."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/product_selector.js:74
+#: gutenberg-block/src/components/product_selector.js:143
+#: gutenberg-block/src/components/product_selector_multiple.js:97
+msgid "How do you want to add the product?"
+msgstr "Kaip norite pridėti produktą?"
+
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:74
+#: gutenberg-block/src/components/product_list_type_selector.js:17
+#: gutenberg-block/src/components/product_selector_multiple.js:86
+msgid "How do you want to generate the list of the products?"
+msgstr "Kaip norite generuoti produktų sąrašą?"
+
+#: src/Localization/AdminTranslations.php:153
+msgid "How to do that?"
+msgstr "Kaip tai padaryti?"
+
+#: src/Localization/AdminTranslations.php:101
+#| msgid ""
+#| "How to Set Up Amazon Affiliate with Hostinger Amazon Affiliate Plugin - "
+#| "Step by step guide"
+msgid ""
+"How to Set Up Amazon Affiliate with Hostinger Amazon Affiliate Connector - "
+"Step by step guide"
+msgstr ""
+"Kaip sukurti Amazon Affiliate paskyrą su Hostinger Amazon Affiliate "
+"Connector įskiepiu – išsamus vadovas"
+
+#: src/Localization/AdminTranslations.php:102
+msgid "How to use this plugin?"
+msgstr "Kaip naudotis šiuo įskiepiu?"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://hostinger.com"
+msgstr "https://hostinger.lt"
+
+#: src/Errors/AmazonApiError.php:76
+msgid ""
+"If the problems persists, contact Amazon Associates support for further "
+"assistance."
+msgstr ""
+"Jei vis dar kyla problemų, kreipkis į Amazon klientų aptarnavimo komandą."
+
+#: src/Errors/AmazonApiError.php:66 src/Errors/AmazonApiError.php:71
+msgid ""
+"If you're still having trouble after checking your settings, contact Amazon "
+"Associates support for further assistance."
+msgstr ""
+"Jei patikrinus nustatymus vis dar kyla problemų, kreipkis į Amazon klientų "
+"aptarnavimo komandą."
+
+#: src/Localization/AdminTranslations.php:15
+msgid ""
+"In order to get the Amazon API information, you need to log in to your <b>"
+"Amazon Associate</b> account."
+msgstr ""
+"Norėdami gauti Amazon API informaciją, turite prisijungti prie savo <b>"
+"Amazon partnerių</b> paskyros."
+
+#: src/Localization/AdminTranslations.php:212
+msgid "India"
+msgstr "Indija"
+
+#: src/Errors/AmazonApiError.php:80
+msgid "Input parameter relating to request is invalid or is missing."
+msgstr ""
+"Įvesties parametras, susijęs su užklausa, yra neteisingas arba jo nėra."
+
+#: src/Localization/AdminTranslations.php:51
+msgid "Insert API code inside the Amazon Product Advertising dashboard."
+msgstr "Įveskite API kodą į Amazon produktų reklamos prietaisų skydą."
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_bestsellers.js:85
+msgid "Insert the product keyword, we will show the best-seller products"
+msgstr ""
+"Įveskite produkto raktinius žodžius, o mes parodysime geriausiai parduodamus "
+"produktus"
+
+#: src/Localization/AdminTranslations.php:106
+msgid ""
+"Inside Block Editor, you can call Hostinger Amazon Affiliate in the block "
+"options. You can call it by typing “/” or click the add button in the right "
+"side of the paragraph."
+msgstr ""
+"Bloko redaktoriaus parinktyse galite susisiekti su Hostinger Amazon "
+"partneriu. Tai atlikti galite įvesdami „/“ arba spustelėdami mygtuką Pridėti "
+"dešinėje pastraipos pusėje."
+
+#: src/Localization/AdminTranslations.php:139
+msgid "Invalid ASIN"
+msgstr "Neteisingas ASIN"
+
+#: src/Rest/templates/search-results.php:89
+#: src/Shortcodes/ProductTableShortcode.php:133
+#: src/Shortcodes/templates/lists/horizontal-cards.php:74
+#: src/Shortcodes/templates/lists/list-with-description.php:72
+#: src/Shortcodes/templates/lists/simplified-list.php:66
+#: src/Shortcodes/templates/product-card.php:60
+msgid "Is prime"
+msgstr "Yra pagrindinis"
+
+#: src/Localization/AdminTranslations.php:213
+msgid "Italy"
+msgstr "Italija"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:359
+msgid "Items to show"
+msgstr "Rodomi elementai"
+
+#: src/Localization/AdminTranslations.php:214
+msgid "Japan"
+msgstr "Japonija"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:765
+msgid "Keywords"
+msgstr "Raktiniai žodžiai"
+
+#: src/Localization/AdminTranslations.php:168
+msgid "Label"
+msgstr "Etiketė"
+
+#: src/Localization/AdminTranslations.php:24
+#, fuzzy
+msgid "Language"
+msgstr "Kalba"
+
+#: src/Localization/AdminTranslations.php:26
+#, fuzzy
+msgid "Language of Preference"
+msgstr "Pirmenybės kalba"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:648
+msgid "Layout"
+msgstr "Išdėstymas"
+
+#: src/Localization/AdminTranslations.php:86
+msgid ""
+"Learn how to use Hostinger's Amazon Affiliate with our tutorials and "
+"documentations"
+msgstr "Sužinokite, kaip naudotis Hostinger Amazon Affiliate su mūsų pamokomis"
+
+#: src/Localization/AdminTranslations.php:87
+#, fuzzy
+msgid "Learn how to use our plugin"
+msgstr "Sužinokite, kaip naudoti mūsų įskiepį"
+
+#: src/Localization/AdminTranslations.php:85
+msgid "Learn more on how to use this plugin"
+msgstr "Sužinokite, kaip naudoti šį įskiepį"
+
+#: src/Localization/AdminTranslations.php:97
+msgid "Leave without saving"
+msgstr "Išeiti neišsaugojus"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/index.js:10
+msgid "Link Amazon product(s)"
+msgstr "Pridėti nuorodą į Amazon produktą (-us)"
+
+#: src/Localization/AdminTranslations.php:54
+msgid "Link Amazon Products"
+msgstr "Nuoroda į Amazon produktus"
+
+#: src/Localization/AdminTranslations.php:38
+#, fuzzy
+#| msgid ""
+#| "Link your Amazon account to your website, start promoting products, and "
+#| "earn rewards."
+msgid ""
+"Link your Amazon account to your website, start promoting products, and earn "
+"rewards. No API key required."
+msgstr ""
+"Susiek Amazon paskyrą su savo svetaine, pradėk reklamuoti produktus ir "
+"uždirbk."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:340
+#: gutenberg-block/src/edit.js:656
+msgid "List with description"
+msgstr "Rodyti su aprašymu"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:898
+msgid "Lists"
+msgstr "Sąrašai"
+
+#: src/Localization/AdminTranslations.php:14
+msgid "Log in to Amazon Associate dashboard"
+msgstr "Prisijunkite prie Amazon partnerių valdymo skydo"
+
+#: src/Localization/AdminTranslations.php:16
+msgid "Login"
+msgstr "Prisijungti"
+
+#: src/Errors/AmazonApiError.php:64
+msgid ""
+"Looks like there's a configuration issue with your Amazon Associates account."
+" The access key you provided is not linked to a primary store in your "
+"approved Amazon Associates account. To fix this, head over to Associate "
+"Central and check your account settings. Make sure the access key you're "
+"using is associated with a primary store that's been approved by Amazon "
+"Associates."
+msgstr ""
+"Panašu, kad tavo Amazon partnerių paskyroje iškilo konfigūracijos problema. "
+"Tavo pateiktas prieigos raktas nėra susietas su pagrindine tavo paskyros "
+"parduotuve. Norėdamas tai ištaisyti, eik į Associates Central skiltį ir "
+"patikrink savo paskyros nustatymus. Įsitikink, kad tavo naudojamas prieigos "
+"raktas susietas su pagrindine parduotuve, kurią patvirtino Amazon partnerių "
+"programa."
+
+#: src/Errors/AmazonApiError.php:94
+msgid ""
+"Looks like there's a configuration issue with your Amazon Associates account."
+" The access key you provided is not valid. To fix this, head over to "
+"Associate Central and check your account settings."
+msgstr ""
+"Panašu, kad tavo Amazon partnerių paskyroje iškilo konfigūracijos problema. "
+"Tavo pateiktas prieigos raktas negalioja. Norėdamas tai ištaisyti, eik į "
+"Associates Central ir patikrink savo paskyros nustatymus."
+
+#: src/Errors/AmazonApiError.php:69
+msgid ""
+"Looks like there's a configuration issue with your Amazon Associates account."
+" The partner tag you provided is not linked to the access key you’re using. "
+"To fix this, head over to Associate Central and check your account settings. "
+"Make sure the partner tag you're using is associated with a valid store in "
+"your Amazon Associates account for the requested marketplace."
+msgstr ""
+"Panašu, kad tavo Amazon partnerių paskyroje iškilo konfigūracijos problema. "
+"Pateikta partnerio žyma nėra susieta su tavo naudojamu prieigos raktu. "
+"Norėdamas tai ištaisyti, eik į Associate Central ir patikrink savo paskyros "
+"nustatymus. Įsitikink, kad naudojama partnerio žyma susieta su veikiančia "
+"parduotuve Amazon partnerių paskyroje prašomoje prekyvietėje."
+
+#: src/Errors/AmazonApiError.php:96
+msgid ""
+"Make sure the access key you're using is correct. If you're still having "
+"trouble after checking your settings, contact Amazon Associates support for "
+"further assistance."
+msgstr ""
+"Įsitikink, kad naudojamas prieigos raktas yra teisingas. Jei patikrinus "
+"nustatymus vis dar kyla problemų, kreipkis į Amazon klientų aptarnavimo "
+"komandą."
+
+#: src/Localization/AdminTranslations.php:81
+msgid "Manage table"
+msgstr "Valdyti lentelę"
+
+#: src/Localization/AdminTranslations.php:69
+msgid "Manage your Amazon API and other configurations"
+msgstr "Tvarkykite Amazon API ir kitas konfigūracijas"
+
+#: gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/product_selector_multiple.js:92
+#: gutenberg-block/src/components/product_selector_multiple.js:172
+msgid "Manually add the products"
+msgstr "Produktus pridėti rankiniu būdu"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:292
+msgid "Maximum count of characters for each product description list item."
+msgstr ""
+"Maksimalus kiekvieno produkto aprašyme esančio elemento ženklų skaičius."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:196
+msgid "Maximum count of characters for the product title."
+msgstr "Maksimalus produkto pavadinimo ženklų skaičius."
+
+#: src/Localization/AdminTranslations.php:91
+msgid "Menu"
+msgstr "Meniu"
+
+#: src/Localization/AdminTranslations.php:215
+msgid "Mexico"
+msgstr "Meksika"
+
+#: src/Localization/AdminTranslations.php:194
+msgid "More information"
+msgstr "Daugiau informacijos"
+
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_selector_multiple.js:195
+msgid "Multiple ASIN values can be separated by comma"
+msgstr "Kelios ASIN reikšmės gali būti skiriamos kableliais"
+
+#: gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/products_selected.js:195
+msgid ""
+"Multiple ASIN values can be separated by comma. Press Enter to save changes."
+msgstr ""
+"Kelios ASIN reikšmės gali būti skiriamos kableliais. Norėdami išsaugoti, "
+"spauskite „Enter“."
+
+#: src/Localization/AdminTranslations.php:63 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:314 gutenberg-block/src/edit.js:993
+msgid "Multiple Product List"
+msgstr "Kelių produktų sąrašas"
+
+#: src/Localization/AdminTranslations.php:203
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: src/Localization/AdminTranslations.php:180
+#, fuzzy
+msgid "Name field not added to all product data rows."
+msgstr "Pavadinimo laukas įtrauktas ne į visas gaminio duomenų eilutes."
+
+#: src/Localization/AdminTranslations.php:216
+msgid "Netherlands"
+msgstr "Nyderlandai"
+
+#: src/Localization/AdminTranslations.php:71
+msgid "New comparison table"
+msgstr "Nauja palyginimo lentelė"
+
+#: src/Localization/AdminTranslations.php:118
+msgid "New table"
+msgstr "Nauja lentelė"
+
+#: src/Shortcodes/templates/product-list.php:28
+msgid "No layout selected."
+msgstr "Nepasirinktas joks maketas."
+
+#: src/Localization/AdminTranslations.php:187 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/List.jsx:13
+msgid "No matching options"
+msgstr "Nėra atitinkančių variantų"
+
+#: src/Localization/AdminTranslations.php:149 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/Dropdown.jsx:48
+msgid "No options"
+msgstr "Nėra jokių variantų"
+
+#: src/Setup/Blocks.php:240
+msgid "No products found"
+msgstr "Produktų nerasta"
+
+#: gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/products_selected.js:102
+msgid "No products selected"
+msgstr "Nepasirinkti jokie produktai"
+
+#: src/Errors/AmazonApiError.php:99 src/Rest/ItemsRoutes.php:63
+msgid "No results found."
+msgstr "Rezultatų nerasta."
+
+#: src/Localization/AdminTranslations.php:75
+#, fuzzy
+msgid "Nothing found"
+msgstr "Nieko nerasta"
+
+#: src/Localization/AdminTranslations.php:70
+msgid "Open guide"
+msgstr "Atidaryti gidą"
+
+#: src/Localization/AdminTranslations.php:19
+msgid "Optional"
+msgstr "Pasirinktinai"
+
+#: src/Errors/AmazonApiError.php:53 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:425
+msgid "OR"
+msgstr "ARBA"
+
+#: src/Localization/AdminTranslations.php:138 gutenberg-block/dist/index.js:1
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_type_selector.js:42
+#: gutenberg-block/src/components/product_selector.js:105
+#: gutenberg-block/src/components/product_selector_multiple.js:128
+#: gutenberg-block/src/views/TableConfiguration.jsx:68
+msgid "or"
+msgstr "arba"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:253
+msgid "Overwrite product description"
+msgstr "Perrašyti produkto aprašymą"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:240
+msgid "Overwrite product description?"
+msgstr "Perrašyti produkto aprašymą?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:216
+msgid "Overwrite product title?"
+msgstr "Perrašyti produkto pavadinimą?"
+
+#: src/Localization/AdminTranslations.php:202
+msgid "Paste the shortcode in Block Editor where you want the table to appear."
+msgstr ""
+"Blokų redaktoriuje įklijuok trumpąjį kodą ten, kur nori, kad būtų rodoma "
+"lentelė."
+
+#: src/Shortcodes/ShortcodeManager.php:56
+msgid "Please choose display type!"
+msgstr "Pasirinkite rodymo tipą!"
+
+#: src/Localization/AdminTranslations.php:120
+msgid "Please enter a keyword for search!"
+msgstr "Įveskite paieškos raktažodį!"
+
+#: src/Shortcodes/ProductListShortcode.php:98
+msgid "Please enter keywords!"
+msgstr "Prašome įvesti raktinius žodžius!"
+
+#: src/Shortcodes/ProductCardShortcode.php:73
+#: src/Shortcodes/ProductListShortcode.php:110
+msgid "Please enter product(-s) ASIN(-s)!"
+msgstr "Įveskite produkto (-ų) ASIN!"
+
+#: src/Localization/AdminTranslations.php:217
+msgid "Poland"
+msgstr "Lenkija"
+
+#: src/Localization/AdminTranslations.php:193
+#: src/Repositories/TableRepository.php:290
+msgid "Price"
+msgstr "Kaina"
+
+#: src/Repositories/TableRepository.php:291
+msgid "Prime Status"
+msgstr "Pagrindinė būsena"
+
+#: src/Setup/Blocks.php:275
+msgid "product"
+msgstr "produktas"
+
+#: src/Localization/AdminTranslations.php:130
+msgid "Product data"
+msgstr "Produkto duomenys"
+
+#: src/Localization/AdminTranslations.php:200
+msgid "Product visible"
+msgstr "Produktas matomas"
+
+#: src/Localization/AdminTranslations.php:197
+msgid "Products"
+msgstr "Produktai"
+
+#: src/Setup/Blocks.php:276
+msgid "products"
+msgstr "produktai"
+
+#: src/Shortcodes/ProductCardShortcode.php:83
+#: src/Shortcodes/ProductListShortcode.php:121
+msgid "Products not fetched from DB and/or API. Please check debug logs."
+msgstr "Produktai negauti iš DB ir (arba) API. Patikrinkite derinimo žurnalus."
+
+#. translators: %s: Amazon store region
+#: src/Setup/Blocks.php:225
+msgid ""
+"Products that shown in here is from your store region (%1$s). You can change "
+"store region in <a href=\"%2$s\">Settings page</a>."
+msgstr ""
+"Čia rodomi produktai yra iš jūsų parduotuvės regiono (%1$s). Parduotuvės "
+"regioną pakeisti galite <a href=\"%2$s\">svetainės nustatymuose</a>."
+
+#: src/Localization/AdminTranslations.php:128
+msgid "Products to be compared"
+msgstr "Lyginami produktai"
+
+#: src/Localization/AdminTranslations.php:162
+msgid "Publish"
+msgstr "Paskelbti"
+
+#: src/Localization/AdminTranslations.php:111
+msgid "Publish the post"
+msgstr "Publikuokite įrašą"
+
+#: src/Localization/AdminTranslations.php:159
+msgid "Published"
+msgstr "Paskelbta"
+
+#: src/Localization/AdminTranslations.php:62
+msgid "Put focus on one product only."
+msgstr "Susitelkite tik į vieną produktą."
+
+#: src/Localization/AdminTranslations.php:154
+msgid "Quick way to add this table inside the Block Editor."
+msgstr "Greitas būdas pridėti šią lentelę naudojantis blokų redaktoriumi."
+
+#: src/Localization/AdminTranslations.php:113
+msgid "Read full documentation"
+msgstr "Perskaitykite viską"
+
+#: src/Localization/AdminTranslations.php:167
+msgid "Remove highlight"
+msgstr "Pašalinti paryškinimą"
+
+#: src/Errors/AmazonApiError.php:102
+msgid "Request to Amazon API failed."
+msgstr "Užklausa į Amazon API nepavyko."
+
+#: src/Localization/AdminTranslations.php:171
+msgid "Row data"
+msgstr "Eilės duomenys"
+
+#: src/Localization/AdminTranslations.php:198
+msgid "Rows"
+msgstr "Eilutės"
+
+#: src/Localization/AdminTranslations.php:219
+msgid "Saudi Arabia"
+msgstr "Saudo Arabija"
+
+#: src/Localization/AdminTranslations.php:35
+#, fuzzy
+msgid "Save"
+msgstr "Išsaugoti"
+
+#: src/Localization/AdminTranslations.php:98
+msgid "Save & leave"
+msgstr "Išsaugoti ir išeiti"
+
+#: src/Localization/AdminTranslations.php:94
+#: src/Localization/AdminTranslations.php:172
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: src/Localization/AdminTranslations.php:95
+msgid "Save changes?"
+msgstr "Išsaugoti pakeitimus?"
+
+#: src/Localization/AdminTranslations.php:55
+msgid ""
+"Search for <b>Link to Amazon Products</b> in Gutenberg Blocks, find the "
+"product(s) you want to add, and publish the post."
+msgstr ""
+"Ieškokite <b>Nuorodos į Amazon produktus</b> Gutenbergo blokuose, raskite "
+"norimą (-us) produktą (-us) ir paskelbkite įrašą."
+
+#: src/Setup/Blocks.php:254
+msgid "Search for product name that you want to add to your blog post."
+msgstr ""
+"Ieškokite produkto pavadinimo, kurį norite įtraukti į tinklaraščio įrašą."
+
+#: src/Localization/AdminTranslations.php:170
+msgid "Search for products or enter the ASIN code"
+msgstr "Ieškok produktų arba įvesk ASIN kodą"
+
+#: src/Localization/AdminTranslations.php:150 gutenberg-block/dist/index.js:1
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/product_list_type_selector.js:55
+#: gutenberg-block/src/components/product_selector.js:119
+#: gutenberg-block/src/components/product_selector_multiple.js:142
+#: gutenberg-block/src/edit.js:631
+msgid "Search for the product in Amazon"
+msgstr "Ieškoti produkto Amazon"
+
+#: src/Setup/Blocks.php:237 src/Setup/Blocks.php:248
+msgid "Search icon"
+msgstr "Paieškos piktograma"
+
+#: src/Setup/Blocks.php:212
+msgid "Search product name ..."
+msgstr "Ieškoti produkto pavadinimo..."
+
+#: src/Localization/AdminTranslations.php:119
+msgid "Search your table collections"
+msgstr "Ieškoti lentelių rinkiniuose"
+
+#: src/Setup/Blocks.php:251
+msgid "Searched products will appear here"
+msgstr "Ieškomi produktai bus rodomi čia"
+
+#: src/Localization/AdminTranslations.php:23
+msgid "Secret key"
+msgstr "Slaptasis raktas"
+
+#: src/Localization/AdminTranslations.php:33
+#, fuzzy
+msgid "Secret key contains of numbers, letters and special characters"
+msgstr "Slaptąjį raktą sudaro skaičiai, raidės ir specialieji simboliai"
+
+#: src/Localization/AdminTranslations.php:32
+#, fuzzy
+msgid "Secret key must be 40 characters long"
+msgstr "Slaptasis raktas turi būti 40 simbolių ilgio"
+
+#: gutenberg-block/dist/index.js:4 gutenberg-block/src/edit.js:1089
+msgid "Select"
+msgstr "Pasirinkti"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:976
+msgid "Select A Display Type"
+msgstr "Pasirinkti išdėstymo tipą"
+
+#: src/Setup/Blocks.php:271
+msgid "Select at least 2 products to continue"
+msgstr "Norėdami tęsti, pasirinkite bent 2 produktus"
+
+#: src/Localization/AdminTranslations.php:20
+msgid "Select country first to find matching tracking ID"
+msgstr "Kad rastum atitinkamą sekimo ID, pirmiausia pasirink šalį"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:612
+msgid "Select How To Display Products"
+msgstr "Pasirinkti, kaip išdėstyti produktus"
+
+#: src/Setup/Blocks.php:277 gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/products_selected.js:106
+msgid "selected"
+msgstr "pasirinkta"
+
+#: src/Localization/AdminTranslations.php:68
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: src/Localization/AdminTranslations.php:155
+msgid "Shortcode"
+msgstr "Trumpasis kodas"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:227
+msgid "Show product description?"
+msgstr "Rodyti produkto aprašymą?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:345
+#: gutenberg-block/src/edit.js:660
+msgid "Simplified list"
+msgstr "Supaprastintas sąrašas"
+
+#: src/Localization/AdminTranslations.php:218
+msgid "Singapore"
+msgstr "Singapūras"
+
+#: src/Localization/AdminTranslations.php:61 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:304 gutenberg-block/src/edit.js:988
+msgid "Single Product Card"
+msgstr "Vieno produkto kortelė"
+
+#: src/Rest/TableRoutes.php:172
+msgid "Sorry, table does not exists."
+msgstr "Atsiprašome, lentelė neegzistuoja."
+
+#: src/Rest/TableRoutes.php:29 src/Rest/TableRoutes.php:145
+#: src/Rest/TableRoutes.php:206
+msgid "Sorry, table id missing"
+msgstr "Atsiprašome, trūksta lentelės ID"
+
+#: src/Rest/ItemsRoutes.php:44 src/Rest/ItemsRoutes.php:110
+#: src/Rest/TableRoutes.php:118 src/Rest/TableRoutes.php:159
+msgid "Sorry, there are validation errors."
+msgstr "Atsiprašome, iškilo patvirtinimo klaidų."
+
+#: src/Api/Amazon/ProxyApi/Client.php:66
+msgid "Sorry, there was a problem with request."
+msgstr "Atsiprašome, su užklausa iškilo problema."
+
+#: src/Rest/SettingsRoutes.php:121
+msgid "Sorry, you are not allowed to do that."
+msgstr "Atsiprašome, to daryti negalima."
+
+#: src/Localization/AdminTranslations.php:220
+msgid "Spain"
+msgstr "Ispanija"
+
+#: src/Localization/AdminTranslations.php:48
+msgid "Start Earning in Four Easy Steps"
+msgstr "Pradėkite uždirbti vos po keturių paprastų žingsnių"
+
+#: src/Localization/AdminTranslations.php:46
+msgid "Start Earning Now"
+msgstr "Užsidirbti"
+
+#: src/Localization/AdminTranslations.php:163
+msgid "Status"
+msgstr "Būsena"
+
+#: src/Localization/AdminTranslations.php:221
+msgid "Sweden"
+msgstr "Švedija"
+
+#: src/Setup/Cpts.php:40
+msgid "Table"
+msgstr "Lentelė"
+
+#: src/Repositories/TableRepository.php:271
+msgid "Table added feature is missing title."
+msgstr "Lentelėje pridėtai funkcijai nepriskirtas pavadinimas."
+
+#: src/Repositories/TableRepository.php:255
+msgid "Table added product is missing asin."
+msgstr "Lentelėje pridėtam produktui nepriskirtas ASIN."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:963
+msgid "Table Configuration"
+msgstr "Lentelės konfigūracija"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:851
+msgid "Table data"
+msgstr "Lentelės duomenys"
+
+#: src/Localization/AdminTranslations.php:115
+#, fuzzy
+msgid "Table data will be shown in this page"
+msgstr "Lentelės duomenys bus rodomi šiame puslapyje"
+
+#: src/Localization/AdminTranslations.php:201
+msgid "Table displays up to 5 products"
+msgstr "Lentelėje galima rodyti iki 5 produktų"
+
+#: src/Repositories/TableRepository.php:48
+#: src/Repositories/TableRepository.php:58
+#: src/Repositories/TableRepository.php:114
+#: src/Repositories/TableRepository.php:124 src/Rest/TableRoutes.php:218
+#: src/Rest/TableRoutes.php:228
+msgid "Table does not exist."
+msgstr "Lentelė neegzistuoja."
+
+#: src/Localization/AdminTranslations.php:126
+#: src/Localization/AdminTranslations.php:196
+msgid "Table name"
+msgstr "Lentelės pavadinimas"
+
+#: src/Repositories/TableRepository.php:240
+msgid "Table name is missing."
+msgstr "Trūksta lentelės pavadinimo."
+
+#: src/Shortcodes/ProductTableShortcode.php:59
+msgid "Table not found or it is not published."
+msgstr "Lentelė nerasta arba nėra publikuota."
+
+#: src/Shortcodes/ProductTableShortcode.php:52
+msgid "Table not found."
+msgstr "Lentelė nerasta."
+
+#: src/Repositories/TableRepository.php:261
+msgid "Table should have at least one feature added."
+msgstr "Lentelėje turėtų būti pridėta bent viena funkcija."
+
+#: src/Repositories/TableRepository.php:244
+msgid "Table should have at least one product added."
+msgstr "Lentelėje turėtų būti pridėtas bent vienas produktas."
+
+#: src/Repositories/TableRepository.php:277
+msgid "Table status is missing."
+msgstr "Trūksta lentelės būsenos."
+
+#: src/Localization/AdminTranslations.php:147
+msgid "Table was successfully created"
+msgstr "Lentelė sėkmingai sukurta"
+
+#: src/Localization/AdminTranslations.php:156
+msgid "Table was successfully deleted"
+msgstr "Lentelė sėkmingai pašalinta"
+
+#: src/Localization/AdminTranslations.php:144
+msgid "Table was successfully saved"
+msgstr "Lentelė sėkmingai išsaugota"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:950
+msgid "Templates and Styles"
+msgstr "Šablonai ir stiliai"
+
+#: src/Localization/AdminTranslations.php:57
+msgid ""
+"That's it – every time visitors buy the product from your post, you will "
+"earn a commission from Amazon."
+msgstr ""
+"Štai ir viskas – kiekvieną kartą, kai lankytojai nusipirks produktą iš jūsų "
+"įrašo, uždirbsite komisinius iš Amazon."
+
+#: src/Localization/AdminTranslations.php:112
+msgid ""
+"That’s it! After your post published, whenever your visitor buy the product "
+"from your post, you will earn commissions."
+msgstr ""
+"Štai ir viskas! Po to, kai jūsų įrašas bus paskelbtas, lankytojams įsigijus "
+"produktų iš jūsų sąrašo, uždirbsite komisinius."
+
+#. translators: %s: URL.
+#: src/Errors/AmazonApiError.php:47
+msgid ""
+"The Access Key is not enabled for accessing Product Advertising API. For "
+"information on registering for Product Advertising API, see <a href=\"%s\" "
+"target=\"_blank\">Register for Product Advertising API</a>"
+msgstr ""
+"Prieigos raktas išjungtas, todėl nepavyksta pasiekti Product Advertising API."
+" Informaciją apie Product Advertising API registraciją peržiūrėk čia – <a "
+"href=\"%s\" target=\"_blank\">Product Advertising API registracija</a>"
+
+#. translators: %s: URL.
+#: src/Errors/AmazonApiError.php:56
+msgid ""
+"The Access Key is not enabled for accessing this version of Product "
+"Advertising API. Please migrate your credentials as referred here <a "
+"href=\"%s\" target=\"_blank\">Managing your Existing AWS Security "
+"Credentials for the Product Advertising API</a>."
+msgstr ""
+"Prieigos raktas išjungtas, todėl nepavyksta pasiekti šios Product "
+"Advertising API versijos. Perkelk savo įgaliojimus, kaip nurodyta čia – <a "
+"href=\"%s\" target=\"_blank\">esamų AWS saugumo įgaliojimų tvarkymas Product "
+"Advertising API</a>."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:477
+msgid ""
+"The block you are attempting to use is currently not supported in the Site "
+"Editor. We apologize for any inconvenience this may cause. Our team is "
+"actively working to enhance compatibility, and we appreciate your "
+"understanding. For the best editing experience, please consider using "
+"post/page editor or await future updates."
+msgstr ""
+"Svetainės redaktorius šiuo metu nepalaiko šio bloko. Atsiprašome už "
+"nepatogumus. Mūsų komanda aktyviai dirba, kad pagerintų suderinamumą ir "
+"dėkoja už supratimą. Siekiant užtikrinti geriausią redagavimo patirtį, "
+"siūlome rinktis įrašų / puslapių redaktorių arba palaukti atnaujinimų."
+
+#. translators: %s: PHP version
+#: hostinger-affiliate-plugin.php:101
+msgid ""
+"The Hostinger Affiliate plugin requires minimum PHP version of <b>%s</b>. "
+msgstr "Hostinger partnerystės įskiepiui reikia bent PHP versijos <b>%s</b>."
+
+#: src/Services/ProductFetchService.php:184
+#| msgid ""
+#| "There is an issue displaying Amazon products. Please contact "
+#| "administrator to check that."
+msgid ""
+"There is an issue displaying Amazon products. Please contact the "
+"administrator to check that."
+msgstr ""
+"Rodant jūsų Amazon produktus iškilo problema. Prašome susisiekti su "
+"administratoriumi."
+
+#: src/Errors/AmazonApiError.php:36 src/Errors/AmazonApiError.php:89
+msgid "There seems to be a technical problem with your request."
+msgstr "Panašu, kad vykdant tavo užklausą iškilo techninių problemų."
+
+#: src/Errors/AmazonApiError.php:74
+msgid ""
+"There was a problem with your request. Amazon limits the number of requests "
+"you can make to their Product Advertising API. Note that your account will "
+"lose access to Product Advertising API 5.0 if it has not generated referring "
+"sales for a consecutive 30-day period."
+msgstr ""
+"Vykdant tavo užklausą škilo problema. Amazon riboja užklausų, kurias gali "
+"pateikti savo Product Advertising API, skaičių. Atkreipk dėmesį, kad tavo "
+"paskyra neteks prieigos prie Product Advertising API 5.0, jei 30 dienų iš "
+"eilės nesugeneruos rekomendacinių pardavimų."
+
+#: src/Localization/AdminTranslations.php:125
+msgid "There was an error saving your settings: "
+msgstr "Įrašant jūsų nustatymus įvyko klaida:"
+
+#: src/Localization/AdminTranslations.php:121
+msgid "There was an error searching for items: "
+msgstr "Ieškant elementų įvyko klaida:"
+
+#: gutenberg-block/dist/index.js:2 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/products_selected.js:11
+#: gutenberg-block/src/components/product_selector.js:18
+#: gutenberg-block/src/components/product_selector_multiple.js:19
+msgid "There was an error validating product ids: "
+msgstr "Tikrinant produkto ID įvyko klaida:"
+
+#: src/Localization/AdminTranslations.php:122 gutenberg-block/dist/index.js:2
+#: gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/components/products_selected.js:48
+#: gutenberg-block/src/components/product_selector.js:54
+#: gutenberg-block/src/components/product_selector_multiple.js:55
+msgid "There was fatal server error while processing your request."
+msgstr "Apdorojant jūsų užklausą įvyko serverio klaida."
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:470
+msgid "This block is not supported while using Site Editor"
+msgstr "Svetainės redaktorius nepalaiko šio bloko"
+
+#: src/Localization/AdminTranslations.php:145
+#: src/Localization/AdminTranslations.php:148
+msgid "This field is required"
+msgstr "Šis laukas yra privalomas"
+
+#: src/Localization/AdminTranslations.php:59
+msgid "Three Templates for Your Product(s) Block"
+msgstr "Trys jūsų produkto (-ų) bloko šablonai"
+
+#: src/Localization/AdminTranslations.php:192
+#: src/Repositories/TableRepository.php:289
+msgid "Thumbnail"
+msgstr "Miniatiūra"
+
+#: src/Localization/AdminTranslations.php:191
+#: src/Repositories/TableRepository.php:288 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/edit.js:562 gutenberg-block/src/edit.js:911
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:183
+msgid "Title length"
+msgstr "Pavadinimo ilgis"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:210
+msgid "Title overwrite enabled?"
+msgstr "Pavadinimo perrašymas įjungtas?"
+
+#: gutenberg-block/dist/index.js:3 gutenberg-block/src/edit.js:504
+msgid ""
+"To gain full access to this block, you need to connect your Amazon "
+"Partnership account."
+msgstr ""
+"Norėdami gauti pilną prieigą prie šio bloko, turite prijungti savo Amazon "
+"Partnership paskyrą."
+
+#: src/Localization/AdminTranslations.php:28
+msgid "Tracking ID"
+msgstr "Sekimo ID"
+
+#: src/Localization/AdminTranslations.php:146
+#, fuzzy
+msgid ""
+"Tracking ID format wrong. Lowercase letters, digits and _-. special chars "
+"are allowed."
+msgstr ""
+"Neteisingas sekimo ID formatas. Leidžiamos mažosios raidės, skaitmenys ir "
+"specialieji simboliai _-."
+
+#: src/Localization/AdminTranslations.php:77
+msgid "Try searching for something else"
+msgstr "Pabandykite ieškoti kažko kito"
+
+#: src/Localization/AdminTranslations.php:222
+msgid "Turkey"
+msgstr "Turkija"
+
+#: src/Localization/AdminTranslations.php:82
+msgid "Tutorial"
+msgstr "Pamoka"
+
+#: src/Localization/AdminTranslations.php:99
+msgid "Tutorial video by"
+msgstr "Pamokos vaizdo įrašas sukurtas"
+
+#: src/Localization/AdminTranslations.php:204
+msgid "Type"
+msgstr "Tipas"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/product_selector.js:100
+#: gutenberg-block/src/components/product_selector_multiple.js:123
+msgid "Type ASIN (Product ID)"
+msgstr "Įvesti ASIN (produkto ID)"
+
+#: src/Localization/AdminTranslations.php:181
+#, fuzzy
+msgid "Type field not added to all product data rows."
+msgstr "Tipo laukas įtrauktas ne į visas gaminio duomenų eilutes."
+
+#: gutenberg-block/dist/index.js:2
+#: gutenberg-block/src/components/product_selector_multiple.js:179
+msgid "Type the ASINs (Product IDs)"
+msgstr "Įvesti ASIN (produkto ID)"
+
+#: src/Localization/AdminTranslations.php:223
+msgid "United Arab Emirates"
+msgstr "Jungtiniai Arabų Emyratai"
+
+#: src/Localization/AdminTranslations.php:224
+msgid "United Kingdom"
+msgstr "Jungtinė Karalystė"
+
+#: src/Localization/AdminTranslations.php:225
+msgid "United States"
+msgstr "Jungtinės Amerikos Valstijos"
+
+#: src/Localization/Messages.php:24
+msgid "Unknown display type. Please re-select display type."
+msgstr "Nežinomas rodymo tipas. Pasirinkite iš naujo."
+
+#: src/Localization/AdminTranslations.php:45
+msgid ""
+"Unlock the full potential of your website – monetize it with our plugin to "
+"earn more."
+msgstr ""
+"Išlaisvinkite visą savo svetainės potencialą ir uždirbkite daugiau su mūsų "
+"įskiepiu."
+
+#: src/Localization/AdminTranslations.php:161
+msgid "Unpublish"
+msgstr "Nebeskelbti"
+
+#: src/Localization/AdminTranslations.php:184 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/views/TableConfiguration.jsx:35
+msgid "Use the saved table configuration"
+msgstr "Naudoti išsaugotą lentelės konfigūraciją"
+
+#: src/Localization/AdminTranslations.php:158
+msgid "Visibility"
+msgstr "Matomumas"
+
+#: src/Models/Product.php:250
+msgid "Watch on Amazon Prime"
+msgstr "Žiūrėti Amazon Prime"
+
+#: src/Localization/AdminTranslations.php:44
+#| msgid "Welcome to Hostinger Amazon Affiliate Plugin!"
+msgid "Welcome to Hostinger Amazon Affiliate Connector!"
+msgstr "Sveikiname pasirinkus Hostinger Amazon Affiliate Connector!"
+
+#. translators: %s: user display name
+#: gutenberg-block/dist/index.js:4 gutenberg-block/src/edit.js:1042
+msgid "Welcome, %s!"
+msgstr "Sveiki, %s!"
+
+#: src/Localization/AdminTranslations.php:199
+msgid "What's an ASIN code?"
+msgstr "Kas yra ASIN kodas?"
+
+#: src/Localization/AdminTranslations.php:53
+msgid "Write down your content that you want to link your Amazon product with."
+msgstr "Užrašykite tekstą, kurį norite susieti su Amazon produktu."
+
+#: src/Shortcodes/ProductListShortcode.php:93
+msgid "Wrong product list type selected."
+msgstr "Pasirinktas neteisingas produkto sąrašo tipas."
+
+#. translators: %s: PHP version
+#: hostinger-affiliate-plugin.php:105
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Naudoji <b>%s</b> PHP versiją."
+
+#: src/Localization/AdminTranslations.php:143
+msgid ""
+"You can also hide products so they don’t appear in the table. Products that "
+"you delete will need to be added again."
+msgstr ""
+"Taip pat gali paslėpti produktus, kad jie nebūtų rodomi lentelėje. Ištrintus "
+"produktus reikės pridėti iš naujo."
+
+#: src/Localization/AdminTranslations.php:140
+msgid ""
+"You can also unpublish your table. Deleting it will cause you to lose all "
+"added products."
+msgstr ""
+"Taip pat gali nebeskelbti savo lentelės. Ją ištrynus, prarasi visus pridėtus "
+"produktus."
+
+#: src/Localization/AdminTranslations.php:185 gutenberg-block/dist/index.js:3
+#: gutenberg-block/src/views/TableConfiguration.jsx:42
+msgid "You can edit the existing table configuration after this step"
+msgstr "Dabartinę lentelės konfigūraciją galėsite keisti po šio žingsnio"
+
+#: src/Localization/AdminTranslations.php:178
+#, fuzzy
+msgid "You have added too many products. Only 5 are allowed."
+msgstr "Pridėjote per daug produktų. Leidžiama pridėti tik 5."
+
+#: src/Localization/AdminTranslations.php:96
+msgid "You have unsaved changes that will be lost if you leave."
+msgstr "Turi neišsaugotų pakeitimų, kurie bus prarasti, jei išeisi."
+
+#: src/Localization/AdminTranslations.php:182
+msgid ""
+"You need to add at least one row (title, select) to create a table. Check if "
+"all fields are filled."
+msgstr ""
+"Norėdami sukurti lentelę, turite pridėti bent vieną eilę (pavadinimą, "
+"rinktis). Patikrinkite, ar užpildyti visi laukai."
+
+#: src/Localization/AdminTranslations.php:188
+#| msgid ""
+#| "You need to add at least one row, two enabled products to save changes. "
+#| "Check if all added fields are filled."
+msgid ""
+"You need to add at least one row, two enabled products (max 5 products) to "
+"save changes. Check if all added fields are filled."
+msgstr ""
+"Norėdami išsaugoti pakeitimus, turite pridėti bent vieną eilę ir du "
+"produktus. Patikrinkite, ar užpildyti visi laukai."
+
+#: src/Localization/AdminTranslations.php:108
+msgid ""
+"You need to choose the main layout for your product(s) block based on your "
+"needs. You can choose between single product, multiple product, or "
+"comparison."
+msgstr ""
+"Pagrindinį produkto (-ų) bloko maketą pasirinkite pagal savo poreikius. "
+"Galite rinktis vieną produktą, kelis arba atlikti palyginimą."
+
+#: src/Localization/AdminTranslations.php:175
+#, fuzzy
+msgid "You need to enter table name."
+msgstr "Reikia įvesti lentelės pavadinimą."
+
+#: src/Localization/AdminTranslations.php:72
+msgid "Your comparison tables"
+msgstr "Tavo palyginimo lentelės"
+
+#: src/Localization/AdminTranslations.php:117
+msgid "Your tables"
+msgstr "Tavo lentelės"
